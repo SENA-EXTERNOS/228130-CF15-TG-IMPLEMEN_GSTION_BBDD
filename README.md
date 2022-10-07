@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Algoritmos, estructuras y operaciones**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/228130-CF15-TG-IMPLEMEN_GSTION_BBDD/](https://sena-externos.github.io/228130-CF15-TG-IMPLEMEN_GSTION_BBDD/)
 
 #
 
