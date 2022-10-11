@@ -17,3 +17,77 @@
 
   100%
     transform: translateY(0px)
+
+//colores
+
+.fcab95, .bloque-texto-a.color-acento-botones
+  background-color: rgba(220,245,247,.95) !important
+.fcab35, .bloque-texto-a.color-acento-contenido
+  &::before
+    background-color: #a6f4fe !important
+.fcab17
+  background-color: #d4faff !important
+
+.cac35, .bloque-texto-a.color-acento-botones:before
+  background-color: #fef5e2 !important
+
+.bordecp
+  border-color: $color-primario !important
+
+.bloque-texto-b.color-secundario
+  &::before
+    background-color: rgba(185,221,252,.25) !important
+
+.tarjeta--gris.acordion__activo
+  background-color: #e8e8e8 !important
+
+.fcp, .acordion__accion__btn--a
+  background-color: $color-primario !important
+  color: white
+.fcp15
+  background-color: #f4f9fe !important
+.fcs15
+  background-color: #EDF7F9 !important
+.fcasiblanco
+  background-color: #F9FCFF !important
+.fcac
+  background-color: $color-acento-contenido !important
+.cac
+  color: $color-acento-contenido !important
+.fcac50
+  background-color: #FFF8E7 !important
+.cp
+  color: $color-primario !important
+.fcp
+  background-color: $color-primario !important
+
+.bloque-texto-a.color-acento-contenido
+  background-color: #FFF7E6 !important
+
+.fblanco
+  background-color: white
+
+//otros
+
+.img-infografica__item
+  &__dot
+  &__numero
+
+.border1
+  border: dashed $color-primario
+  
+
+.bloque-texto-a__texto.p-4
+  position: relative
+  &::before
+    content: ''
+    position: absolute
+    width: calc( 100% + 2rem )
+    height: calc( 100% + 2rem )
+    border: dashed $color-primario
+    top: -1rem
+    left: -1rem
+
+.bgt3-2
+  background-image: url('../assets/curso/temas/t3/f2.png')
+  background-size: cover

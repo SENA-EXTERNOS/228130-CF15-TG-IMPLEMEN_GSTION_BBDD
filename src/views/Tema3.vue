@@ -28,7 +28,7 @@
           i.fas.fa-circle.text-small.cac.me-2
           b Funciones
 
-        .bloque-texto-b.color-secundario.p-4
+        .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             h4 Son módulos que tienen la misma definición de un procedimiento, pero con la particularidad de que permite devolver un valor en una variable
@@ -43,9 +43,9 @@
         figure
           img(src='@/assets/curso/temas/t3/f1.svg', alt='persona viendo documentos')
 
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5
+    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.bgt3-2
       .row.m-0.justify-content-between
-        .col-lg-4.mb-4.mb-lg-0(style="background-image: url('@/assets/curso/temas/t3/f2.png')")
+        .col-lg-4.mb-4.mb-lg-0
           
         .col-lg-8
           .bloque-texto-a__texto.p-4
@@ -219,16 +219,16 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/temas/t3/f11.svg', alt='Texto que describa la imagen')
-        .tarjeta.fcac50.p-3(x="20%" y="20%" numero="1")
+        .tarjeta.fcac50.p-3(x="13%" y="15%" numero="1")
           .h5.mb-2 Entradas (E)
           p Las entradas proporcionan valores desde el programa que llama y se utilizan dentro del procedimiento.
-        .tarjeta.fcac50.p-3(x="20%" y="20%" numero="2")
+        .tarjeta.fcac50.p-3(x="88.5%" y="15%" numero="2")
           .h5.mb-2 Salidas (S)
           p Las salidas proporcionan los resultados del subprograma.
-        .tarjeta.fcac50.p-3(x="20%" y="20%" numero="3")
+        .tarjeta.fcac50.p-3(x="23%" y="49%" numero="3")
           .h5.mb-2 Entradas/Salidas (E/S)
           p Un solo parámetro se utiliza para mandar argumentos a un programa y para devolver resultados.
-        .tarjeta.fcac50.p-3(x="20%" y="20%" numero="4")
+        .tarjeta.fcac50.p-3(x="76%" y="84%" numero="4")
           .h5.mb-2 Importante
           p Los métodos más empleados para realizar el paso de parámetros son:
           ul.lista-ul--color

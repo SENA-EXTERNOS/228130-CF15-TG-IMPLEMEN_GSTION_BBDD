@@ -166,7 +166,7 @@
       i.fas.fa-square.cac.me-3
       | Algoritmos
 
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5
+    .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
@@ -291,11 +291,11 @@
       i.fas.fa-square.cac.me-3
       | Información a tener en cuenta
 
-    .bg.cac50.p-4.mb-5
+    .fcac50.px-4.pt-4.mb-5
       .row.justify-content-center.align-items-end
         .col-md-9
           p Las constantes se deben declarar e inicializar. A la acción de crear una variable (o una constante), por primera vez en un programa, se le denomina declaración de variable (o constante). La vida de las variables y constantes dentro de un programa, abarca desde que son declaradas por primera vez hasta la finalización del programa. Todo ese tiempo es lo que se llama ámbito de la variable (o constante). El programador podrá hacer referencia a las variables y constantes utilizando los identificadores, pero siempre dentro del ámbito de las mismas (o sea, desde que son declaradas hasta que el programa termina).
-          .row.justify-content-between
+          .row.justify-content-between.mb-4
             .col-md-5
               figure
                 img(src="@/assets/curso/temas/t1/f16.png", alt="ejemplo de código")
@@ -318,90 +318,91 @@
     p Joyanes (2020) indica que: “Las expresiones son combinaciones de constantes, variables, símbolos de operación, paréntesis y nombres de funciones especiales”. 
     p Los operadores son elementos que relacionan de forma diferente los valores de una o más variables y/o constantes. Es decir, los operadores permiten manipular valores, para obtener nuevos valores en nuevas o diferentes variables.
 
-    SlyderA.tarjeta.tarjeta--azul.p-4.mb-5
-      .row
-        .col-md-4.mb-4.mb-md-0
-          h4 Operadores aritméticos
-          p Permiten la realización de operaciones matemáticas con las variables y las constantes.
-          p Son utilizados de dos formas con los dos tipos de datos:
-          ul
-            li ● Enteros: si ambos son enteros, el resultado es entero.
-            li ● Reales: si alguno de ellos es real, el resultado es real.
+    .tarjeta.fcp15.p-4.mb-5
+      SlyderA
+        .row.p-4
+          .col-md-4.mb-4.mb-md-0
+            h4 Operadores aritméticos
+            p Permiten la realización de operaciones matemáticas con las variables y las constantes.
+            p Son utilizados de dos formas con los dos tipos de datos:
+            ul
+              li ● Enteros: si ambos son enteros, el resultado es entero.
+              li ● Reales: si alguno de ellos es real, el resultado es real.
 
-        .col-md-8.tarjeta.p-3.fblanco
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Tabla 1.
-            br
-            em Operadores aritméticos
-          figure
-            img(src='@/assets/curso/temas/t1/f19.svg', alt='Texto que describa la imagen')
-      .row
-        .col-md-7.mb-4.mb-md-0
-          h4 Prioridad de los operadores aritméticos
-          p Es el orden lógico establecido como se ejecutan las operaciones aritméticas. 
-          p Se evalúan de la siguiente manera:
-          ol
-            li 1. Todas las expresiones que están en paréntesis.
-            li 2. Todas las expresiones con paréntesis anidados de adentro hacia afuera.
-            li 3. Todas las expresiones dentro del paréntesis interno se evalúan primero.
-          p En una misma expresión, los operadores aritméticos se evalúan en el siguiente orden:
-          ol
-            li 1. ^ Exponenciación.
-            li 2. *, /, mod Multiplicación, división, módulo.
-            li 3. +, - Suma y resta.
-          p En una misma expresión con igual nivel de prioridad, los operadores aritméticos se evalúan de izquierda a derecha.
-        
-        .col-md-5.tarjeta.p-3.fblanco
-          figure
-            img(src='@/assets/curso/temas/t1/f20.svg', alt='Texto que describa la imagen')
-      .row
-        .col-md-4.mb-4.mb-md-0
-          h4 Operadores relacionales
-          p El Departamento de Sistemas Informáticos Escuela Técnica Superior de Ingeniería ICAI (2020) indica que “Los operadores se utilizan para formar expresiones lógicas”.
-        .col-md-8.tarjeta.p-3.fblanco
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Tabla 2.
-            br
-            em Operadores relacionales
-          figure
-            img(src='@/assets/curso/temas/t1/f21.svg', alt='Texto que describa la imagen')
-      .row
-        .col-md-4.mb-4.mb-md-0
-          h4 Operadores lógicos
-          p Se utilizan para establecer relaciones entre valores lógicos. Estos valores pueden ser resultado de una expresión relacional.
-        .col-md-8.tarjeta.p-3.fblanco
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-            h5 Tabla 2.
-            br
-            em Operadores lógicos
-          figure
-            img(src='@/assets/curso/temas/t1/f22.svg', alt='Texto que describa la imagen')
+          .col-md-8.tarjeta.p-3.fblanco
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Tabla 1.
+              br
+              em Operadores aritméticos
+            figure
+              img(src='@/assets/curso/temas/t1/f19.svg', alt='Texto que describa la imagen')
+        .row.p-4
+          .col-md-7.mb-4.mb-md-0
+            h4 Prioridad de los operadores aritméticos
+            p Es el orden lógico establecido como se ejecutan las operaciones aritméticas. 
+            p Se evalúan de la siguiente manera:
+            ol
+              li 1. Todas las expresiones que están en paréntesis.
+              li 2. Todas las expresiones con paréntesis anidados de adentro hacia afuera.
+              li 3. Todas las expresiones dentro del paréntesis interno se evalúan primero.
+            p En una misma expresión, los operadores aritméticos se evalúan en el siguiente orden:
+            ol
+              li 1. ^ Exponenciación.
+              li 2. *, /, mod Multiplicación, división, módulo.
+              li 3. +, - Suma y resta.
+            p En una misma expresión con igual nivel de prioridad, los operadores aritméticos se evalúan de izquierda a derecha.
+          
+          .col-md-5.tarjeta.p-3
+            figure
+              img(src='@/assets/curso/temas/t1/f20.svg', alt='Texto que describa la imagen')
+        .row.p-4
+          .col-md-4.mb-4.mb-md-0
+            h4 Operadores relacionales
+            p El Departamento de Sistemas Informáticos Escuela Técnica Superior de Ingeniería ICAI (2020) indica que “Los operadores se utilizan para formar expresiones lógicas”.
+          .col-md-8.tarjeta.p-3.fblanco
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Tabla 2.
+              br
+              em Operadores relacionales
+            figure
+              img(src='@/assets/curso/temas/t1/f21.svg', alt='Texto que describa la imagen')
+        .row.p-4
+          .col-md-4.mb-4.mb-md-0
+            h4 Operadores lógicos
+            p Se utilizan para establecer relaciones entre valores lógicos. Estos valores pueden ser resultado de una expresión relacional.
+          .col-md-8.tarjeta.p-3.fblanco
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Tabla 2.
+              br
+              em Operadores lógicos
+            figure
+              img(src='@/assets/curso/temas/t1/f22.svg', alt='Texto que describa la imagen')
 
-      .row.justify-content-around
-        .col-md-4
-          p Los operadores AND y OR combinan expresiones relacionales, cuyo resultado viene dado por la última columna de sus tablas de verdad.
-        .col-md-7
-          .fcac50.p-3
-            h4 Ejemplo:
-            p
-              | (a&lt;b) &amp;&amp; (b&lt;c) es verdadero (true), si ambas son verdaderas. 
-              br
-              | Si alguna o ambas son falsas el resultado es falso (false).
-            p
-              | En cambio, la expresi&oacute;n (a&lt;b) ||(b&lt;c) es verdadera, si una de las dos comparaciones lo es. 
-              br
-              | Si ambas, son falsas, el resultado es falso.
-            p La expresi&oacute;n&raquo; NO a es menor que b&raquo;
-            p
-              | !(a&lt;b) es falsa si (a&lt;b) es verdadero, y es verdadera si la comparaci&oacute;n es falsa. 
-              br
-              | Por tanto, el operador NOT actuando sobre (a&lt;b) es equivalente a (a&gt;=b)
-              br
-              | La expresi&oacute;n &laquo;NO a es igual a b&raquo;
-            p
-              | !(a==b) es verdadera si a es distinto de b, y es falsa si a es igual a b. 
-              br
-              | Esta expresi&oacute;n es equivalente a (a!=b)
+        .row.p-4.justify-content-around
+          .col-md-4
+            p Los operadores AND y OR combinan expresiones relacionales, cuyo resultado viene dado por la última columna de sus tablas de verdad.
+          .col-md-7
+            .fcac50.p-3
+              h4 Ejemplo:
+              p
+                | (a&lt;b) &amp;&amp; (b&lt;c) es verdadero (true), si ambas son verdaderas. 
+                br
+                | Si alguna o ambas son falsas el resultado es falso (false).
+              p
+                | En cambio, la expresi&oacute;n (a&lt;b) ||(b&lt;c) es verdadera, si una de las dos comparaciones lo es. 
+                br
+                | Si ambas, son falsas, el resultado es falso.
+              p La expresi&oacute;n&raquo; NO a es menor que b&raquo;
+              p
+                | !(a&lt;b) es falsa si (a&lt;b) es verdadero, y es verdadera si la comparaci&oacute;n es falsa. 
+                br
+                | Por tanto, el operador NOT actuando sobre (a&lt;b) es equivalente a (a&gt;=b)
+                br
+                | La expresi&oacute;n &laquo;NO a es igual a b&raquo;
+              p
+                | !(a==b) es verdadera si a es distinto de b, y es falsa si a es igual a b. 
+                br
+                | Esta expresi&oacute;n es equivalente a (a!=b)
 
 
     h3(data-aos="fade-right")

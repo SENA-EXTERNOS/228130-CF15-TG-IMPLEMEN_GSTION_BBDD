@@ -16,8 +16,8 @@
         p Las estructuras de selección, repetición o iteración, permiten que el flujo de control del programa sea alterado de una forma precisa y establecida con anterioridad. Estas se usan como lo indica su palabra para seleccionar, elegir o escoger, las instrucciones que se han de llevar a cabo a continuación. Por su parte, las estructuras de repetición (repetitivas o iterativas), se usan para que un conjunto de instrucciones se repita.
     
     .col-md-10.mx-auto.mb-5
-      .fcs.p-4
-        p.p-3.border1.mb-0 En la siguiente información al respecto, se encuentra la indicación de las utilizaciones, las estructuras de control, así como los contadores y acumuladores.
+      .p-3.fcs15
+        p.p-2.border1.mb-0 En la siguiente información al respecto, se encuentra la indicación de las utilizaciones, las estructuras de control, así como los contadores y acumuladores.
 
     Separador
 
@@ -39,7 +39,7 @@
           .col-md-6.mb-4.mb-md-0
             p Las estructuras simples permiten que se lleven a cabo una o varias acciones o instrucciones determinadas cuando se cumple una condición específica; esta estructura es comúnmente llamada “si-entonces”. 
             p La estructura “si-entonces” analiza la condición y si esta es verdadera, entonces lleva a cabo las acciones que están dentro de la estructura; si la condición es falsa entonces no realiza nada.
-          .col-md-6.tarjeta.tarjeta--azul.p-3
+          .col-md-6.tarjeta.fcasiblanco.p-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 3.
               br
@@ -50,7 +50,7 @@
           .col-md-6.mb-4.mb-md-0
             p Las estructuras dobles permiten llevar a cabo una o más acciones entre dos opciones o alternativas posibles, si se cumple o no una determinada condición; esta estructura es comúnmente llamada “si-entonces-si_no”. 
             p La estructura “si-entonces-si_no” analiza la condición y si esta es verdadera, entonces ejecuta las acciones que están dentro de la estructura Si; si la condición es falsa, entonces realiza las acciones que están dentro de la estructura si_no.
-          .col-md-6.tarjeta.tarjeta--azul.p-3
+          .col-md-6.tarjeta.fcasiblanco.p-3
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 4.
               br
@@ -62,7 +62,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.2 Estructuras de control
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-5
       .col-md-1.col-sm-4.col-xs-10
         img(src='@/assets/curso/temas/t2/f4_.svg', alt='pantalla con engranajes')
       .col-md-10.col-sm-6
