@@ -1,15 +1,28 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 4.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 25%
+    width: 35%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 25%
+    right: 55%
+    width: 15%
+  &-3
+    animation: float2 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 70%
+    width: 10%
+  &-4
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 65%
+    right: 75%
+    width: 8%
 
 @keyframes float1
   0%
@@ -17,6 +30,18 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+//banner interno
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/banner_interno_bg.png') !important
+  background-position: bottom center
 
 //colores
 
@@ -56,10 +81,14 @@
   color: $color-acento-contenido !important
 .fcac50
   background-color: #FFF8E7 !important
+.fcac30
+  background-color: rgba(255,179,11,.3) !important
 .cp
   color: $color-primario !important
 .fcp
   background-color: $color-primario !important
+.fcab
+  background-color: $color-acento-botones
 
 .bloque-texto-a.color-acento-contenido
   background-color: #FFF7E6 !important
@@ -75,7 +104,18 @@
 
 .border1
   border: dashed $color-primario
-  
+
+.borde2
+  position: relative
+  &::before
+    content: ''
+    width: calc( 100% + 1.5rem )
+    height: calc( 100% + 1.5rem )
+    position: absolute
+    top: -0.75rem
+    left: -0.75rem
+    display: block
+    border: dashed $color-primario
 
 .bloque-texto-a__texto.p-4
   position: relative
@@ -90,4 +130,8 @@
 
 .bgt3-2
   background-image: url('../assets/curso/temas/t3/f2.png')
+  background-size: cover
+
+.gr1
+  background-image: url('../assets/curso/bg-gr1.png')
   background-size: cover

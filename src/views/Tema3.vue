@@ -54,7 +54,8 @@
               b Declaración de funciones
             p.cac En pseudocódigo:
 
-            p Sintaxis
+            p 
+              b SINTAXIS
 
             p Función nombre_función (lista de parámetros a recibir):
 
@@ -76,12 +77,19 @@
         figure
           img(src='@/assets/curso/temas/t3/f3.svg', alt='')
       .col-md-8
-        p nombre_función: es el nombre de la función.
-        p lista de parámetros: es la lista de parámetros formales y no puede estar vacía.
-        p Tipo: es el tipo de dato que devuelve la función.
+        p 
+          b nombre_función: 
+          | es el nombre de la función.
+        p 
+          b Lista de parámetros: 
+          | es la lista de parámetros formales y no puede estar vacía.
+        p 
+          b Tipo: 
+          | es el tipo de dato que devuelve la función.
         p // 1 // En el cuerpo de la función debe existir una sentencia que asigne valor explícitamente al nombre de la función.
-        p Invocación a las funciones
-        p Para que una función sea ejecutada, ésta debe ser llamada desde un programa principal, otras funciones o procedimientos haciendo referencia a su nombre. 
+        p 
+          b Invocación a las funciones
+        p Para que una función sea ejecutada, esta debe ser llamada desde un programa principal, otras funciones o procedimientos haciendo referencia a su nombre. 
 
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
@@ -125,7 +133,9 @@
       .col-md-8
         TabsA.color-primario.mb-5
           .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 1")
-            p Facilitan el diseño top-down.
+            p Facilitan el diseño 
+              em top-down
+              | .
           .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 2")
             p Se pueden llevar a cabo más de una vez en un programa, con sólo llamarlos las veces que así se desee. Con esto se ahorra tiempo de diseño y programación.
           .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 3")
@@ -152,7 +162,7 @@
         p En pseudocódigo:
         p 
           i.fas.fa-circle.text-small.cac.me-2
-          b Sintaxis
+          b SINTAXIS
         p procedimiento nombre procedimiento (lista de parámetros):
         p 
           i.fas.fa-circle.text-small.cac.me-2
@@ -163,7 +173,7 @@
           b Hacer
         p cuerpo ejecutable del procedimiento
         p Fin procedimiento
-        .fcac50.p-4.text-center
+        .fcac30.p-4.text-center
           p
             b Ámbito variables locales y globales
           p.mb-0 Las variables utilizadas en los programas principales y subprogramas se clasifican en dos tipos: variables locales y variables globales.
@@ -212,7 +222,7 @@
         figure
           img(src='@/assets/curso/temas/t3/f9.png', alt='Pantallas de computador')
 
-    p A continuación, se muestra una breve explicación de ambos tipos de variables:
+    p Los parámetros pueden ser clasificados como:
 
     .col-md-8.mx-auto.mb-5
       ImagenInfografica.color-acento-contenido.mb-5
@@ -263,7 +273,7 @@
         p.text-small La recursión es un método por medio del cual un subprograma puede ser llamado por el mismo. La escritura de un procedimiento o función recursiva es similar a sus homónimos no recursivos. Sin embargo, para evitar que la recursión continúe indefinidamente, es preciso incluir una condición de terminación dentro del subprograma. 
     
     .col-md-10.mx-auto
-      .tarjeta.gr1.p-3.mb-5
+      .tarjeta.gr1.p-3.mb-5.text-white
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/componentes/ej-02.svg")
@@ -274,11 +284,11 @@
                 p.text-small Para complementar la temática abordada en este componente, relacionado con los algoritmos, se puede descargar el siguiente documento infográfico que contiene la explicación al respecto
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
+                  span(style='color:#12263f !important') Descargar
+                  i.fas.fa-file-download(style='color:#12263f !important')
 
       .fcab.p-4
-        .fblanco.borde2.p-4
+        .fblanco.borde2.p-2
           p.mb-0 Se invita a explorar los demás recursos que se encuentran disponibles en este componente navegando a través del menú principal, en donde se encuentra la síntesis, una actividad didáctica, el material complementario, entre otros. 
 
 </template>

@@ -7,7 +7,7 @@
       h5 Tecnólogo en implementación y gestión de bases de datos
       span Síntesis: Algoritmos, estructuras y operaciones
 
-    p En este componente de Algoritmos, estructuras y operaciones, se dio una inmersión en los diferentes temas y conceptos necesarios para aprender a programar y desarrollar la mentalidad algorítmica que se requiere como programador. Esto permitirá al aprendiz enfrentar cualquier tipo de problema dentro de una organización, para plantear y llevar a cabo una solución óptima para la misma. Estructurar la mente de tal forma que entrenará capacidades muy demandadas en el mercado laboral actual, tales como el análisis de requerimientos, la resolución de problemas bajo mucha presión, la organización y gestión del trabajo en forma de micro tareas, entre muchas otras. La mente analítica como programador será uno de los mayores activos.
+    p En este componente de algoritmos, estructuras y operaciones, se dio una inmersión en los diferentes temas y conceptos necesarios para aprender a programar y desarrollar la mentalidad algorítmica que se requiere como programador. Esto permitirá al aprendiz enfrentar cualquier tipo de problema dentro de una organización, para plantear y llevar a cabo una solución óptima para la misma. Estructurar la mente de tal forma que entrenará capacidades muy demandadas en el mercado laboral actual, tales como el análisis de requerimientos, la resolución de problemas bajo mucha presión, la organización y gestión del trabajo en forma de micro tareas, entre muchas otras. La mente analítica como programador será uno de los mayores activos.
 
     p El siguiente mapa conceptual presenta a manera resumen la temática abordada:
 

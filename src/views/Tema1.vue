@@ -62,7 +62,9 @@
               p.mb-0 Es un proceso dividido en dos tareas. La primera es la prueba del código elaborado en el paso anterior con el fin de ingresar o registrar datos, hasta que el programa no presente errores de tipo sintáctico y lógico; la segunda es la depuración, donde se deben detectar los errores del programa para corregirlos o eliminarlos.
           .row.justify-content-around(titulo="Documentación")
             .col-md-10
-              p Es un registro detallado de manera escrita de todo lo relacionado con el software, por ejemplo, conceptos, solicitudes o acuerdos, procedimientos y diagramas. La documentación tiene como fin ayudar a comprender el uso de un programa y facilitar futuros mantenimientos; no solo para quien que lo diseñó, sino también, para cualquier persona.
+              p Es un registro detallado de manera escrita de todo lo relacionado con el 
+                em software
+                | , por ejemplo, conceptos, solicitudes o acuerdos, procedimientos y diagramas. La documentación tiene como fin ayudar a comprender el uso de un programa y facilitar futuros mantenimientos; no solo para quien que lo diseñó, sino también, para cualquier persona.
               p 
                 b Existen tres tipos de documentación:
               p
@@ -72,7 +74,7 @@
               p
                 i.fas.fa-circle.cac.me-2.text-small
                 strong.cp Documentación externa: 
-                | esta documentación se encuentra resumida en el manual técnico del programa y describirá́:
+                | esta documentación se encuentra resumida en el manual técnico del programa y describirá:
               p Como instalar el sistema, como usarlo y operarlo, los requisitos y el diseño, la administración del sistema y los procedimientos de prueba. Todo ello, para poderles dar el adecuado mantenimiento y que será útil durante todo el tiempo de vida del sistema.
               p Adicionalmente, el manual técnico incluirá también: la descripción del problema, el nombre de cada módulo, la fecha de creación o modificación, el nombre de los autores, el algoritmo y/o el diagrama de flujo, el listado de los módulos y procedimientos del programa; así como, el diccionario de datos y el código fuente (programa).
               p
@@ -317,6 +319,9 @@
 
     p Joyanes (2020) indica que: “Las expresiones son combinaciones de constantes, variables, símbolos de operación, paréntesis y nombres de funciones especiales”. 
     p Los operadores son elementos que relacionan de forma diferente los valores de una o más variables y/o constantes. Es decir, los operadores permiten manipular valores, para obtener nuevos valores en nuevas o diferentes variables.
+
+    .cajon.color-acento-botones.p-4.mb-4
+      p.mb-0 A continuación, pueden conocerse los tipos de operadores, lo que representan y una ejemplificación de cada uno de ellos:
 
     .tarjeta.fcp15.p-4.mb-5
       SlyderA
