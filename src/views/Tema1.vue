@@ -250,7 +250,7 @@
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false", style="background-color: #B9DDFC")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-3.align-items-center.text-center
+            .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
               h4 Analizar el problema
               p Analizar la situación teniendo en cuenta los requerimientos del cliente y organizarlos en un orden lógico de pasos para resolver el problema.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f12.svg')})`}")
@@ -258,7 +258,7 @@
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false", style="background-color: #B9DDFC")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-3.align-items-center.text-center
+            .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
               h4 Diseñar el algoritmo
               p En este paso se describe la secuencia ordenada de pasos del algoritmo, para diseñar una solución que conduce a resolver el problema citado a través de un diagrama de flujo o pseudocódigo.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f13.svg')})`}")
@@ -266,7 +266,7 @@
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false", style="background-color: #B9DDFC")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-3.align-items-center.text-center
+            .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
               h4 Expresar el algoritmo
               p Se debe expresar como un programa en un lenguaje de programación adecuado. También conocido como fase de codificación.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f14.svg')})`}")
@@ -274,7 +274,7 @@
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false", style="background-color: #B9DDFC")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-3.align-items-center.text-center
+            .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
               h4 Ejecución y validación
               p Se pone en ejecución el programa realizado en un computador, verificando y eliminando los errores 
                 em (bugs).
