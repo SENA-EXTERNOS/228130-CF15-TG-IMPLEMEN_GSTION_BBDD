@@ -1,0 +1,434 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="257.634" viewBox="0 0 440 257.634">
+  <g id="Grupo_131816" data-name="Grupo 131816" transform="translate(-245 -3454.947)">
+    <path id="Trazado_190436" data-name="Trazado 190436" d="M1013.424,748.306a129.232,129.232,0,0,1-19.839,12.059c-64.721,33.516-141.3,23.747-157.576,21.36-24.032-3.523-70.488-10.334-104.076-38.843-50.816-43.133-42.9-111.088-3.486-155.945,7.209-8.205,45.293-42.6,122.7-49.9,46.845-4.421,101.451-6.653,141,17.259C1075.145,604.493,1069.236,705.9,1013.424,748.306Z" transform="translate(-399.999 2920.722)" fill="#fff4da" opacity="0.48"/>
+    <g id="Grupo_130287" data-name="Grupo 130287" transform="translate(-1297.63 2015.559)">
+      <g id="Grupo_130290" data-name="Grupo 130290" transform="translate(1898.848 1599.759)">
+        <g id="Grupo_130289" data-name="Grupo 130289">
+          <g id="Grupo_130288" data-name="Grupo 130288">
+            <g id="Grupo_130287-2" data-name="Grupo 130287">
+              <path id="Trazado_190416" data-name="Trazado 190416" d="M1838.457,1575.309a14.556,14.556,0,0,1,3.556-1.545l.732-3.519,5.944-.1.856,3.489a14.473,14.473,0,0,1,3.606,1.42l3.006-1.97,4.277,4.13-1.863,3.071a14.586,14.586,0,0,1,1.545,3.556l3.519.733.1,5.944-3.491.855a14.539,14.539,0,0,1-1.419,3.607l1.969,3.005-4.128,4.277-3.072-1.862a14.652,14.652,0,0,1-3.556,1.545l-.732,3.519-5.944.1-.857-3.491a14.5,14.5,0,0,1-3.606-1.42l-3.005,1.97-4.277-4.13,1.861-3.071a14.547,14.547,0,0,1-1.545-3.557l-3.519-.73-.1-5.944,3.49-.858a14.6,14.6,0,0,1,1.42-3.606l-1.969-3,4.128-4.278,3.072,1.863Zm3.17,7.92a6.378,6.378,0,1,0,9.019-.158A6.376,6.376,0,0,0,1841.627,1583.229Z" transform="translate(-1828.315 -1570.142)" fill="#0ddcf1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_130293" data-name="Grupo 130293" transform="translate(1903.74 1511.896)">
+        <g id="Grupo_130292" data-name="Grupo 130292">
+          <g id="Grupo_130291" data-name="Grupo 130291">
+            <path id="Trazado_190417" data-name="Trazado 190417" d="M1839.579,1503.417a10.528,10.528,0,0,1,2.573-1.12l.529-2.546,4.3-.075.619,2.526a10.524,10.524,0,0,1,2.611,1.026l2.175-1.424,3.1,2.989-1.348,2.223a10.531,10.531,0,0,1,1.118,2.572l2.547.53.075,4.3-2.527.619a10.5,10.5,0,0,1-1.026,2.611l1.425,2.175-2.989,3.1-2.223-1.348a10.532,10.532,0,0,1-2.572,1.118l-.53,2.546-4.3.075-.618-2.526a10.531,10.531,0,0,1-2.611-1.026l-2.175,1.424-3.1-2.989,1.348-2.222a10.565,10.565,0,0,1-1.118-2.573l-2.546-.53-.076-4.3,2.527-.618a10.481,10.481,0,0,1,1.026-2.611l-1.425-2.175,2.989-3.1,2.223,1.349Zm2.293,5.731a4.617,4.617,0,1,0,6.529-.113A4.617,4.617,0,0,0,1841.872,1509.147Z" transform="translate(-1832.239 -1499.676)" fill="#cc8f08"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_130297" data-name="Grupo 130297" transform="translate(1683.931 1463.471)">
+        <g id="Grupo_130296" data-name="Grupo 130296">
+          <g id="Grupo_130295" data-name="Grupo 130295">
+            <g id="Grupo_130294" data-name="Grupo 130294">
+              <path id="Trazado_190418" data-name="Trazado 190418" d="M1668.2,1467.077a17.546,17.546,0,0,1,4.293-1.864l.883-4.248,7.178-.126,1.032,4.213a17.61,17.61,0,0,1,4.355,1.713l3.627-2.378,5.165,4.986-2.248,3.708a17.652,17.652,0,0,1,1.865,4.294l4.247.883.126,7.177-4.215,1.034a17.6,17.6,0,0,1-1.712,4.354l2.376,3.629-4.985,5.165-3.708-2.249a17.642,17.642,0,0,1-4.293,1.865l-.884,4.248-7.178.126-1.032-4.214a17.606,17.606,0,0,1-4.354-1.713l-3.628,2.378-5.165-4.986,2.249-3.708a17.563,17.563,0,0,1-1.865-4.293l-4.248-.884-.126-7.177,4.214-1.034a17.575,17.575,0,0,1,1.713-4.354l-2.378-3.627,4.986-5.165,3.708,2.248Zm3.827,9.562a7.7,7.7,0,1,0,10.888-.192A7.7,7.7,0,0,0,1672.024,1476.64Z" transform="translate(-1655.953 -1460.839)" fill="#154f8d"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_130299" data-name="Grupo 130299" transform="translate(1542.63 1696.686)">
+        <g id="Grupo_130298" data-name="Grupo 130298">
+          <path id="Trazado_190419" data-name="Trazado 190419" d="M1982.63,1648.045c0,.092-98.5.168-219.99.168-121.526,0-220.01-.076-220.01-.168s98.484-.168,220.01-.168C1884.126,1647.877,1982.63,1647.953,1982.63,1648.045Z" transform="translate(-1542.63 -1647.877)" fill="#1a2e35"/>
+        </g>
+      </g>
+      <g id="Grupo_130310" data-name="Grupo 130310" transform="translate(1897.246 1547.33)">
+        <g id="Grupo_130301" data-name="Grupo 130301" transform="translate(5.338)">
+          <g id="Grupo_130300" data-name="Grupo 130300">
+            <path id="Rectángulo_293604" data-name="Rectángulo 293604" d="M5.113,0H31.278a5.114,5.114,0,0,1,5.114,5.114V31.278a5.113,5.113,0,0,1-5.113,5.113H5.114A5.114,5.114,0,0,1,0,31.277V5.113A5.113,5.113,0,0,1,5.113,0Z" fill="#1a2e35"/>
+          </g>
+        </g>
+        <g id="Grupo_130303" data-name="Grupo 130303">
+          <g id="Grupo_130302" data-name="Grupo 130302">
+            <path id="Rectángulo_293605" data-name="Rectángulo 293605" d="M5.114,0H31.279a5.113,5.113,0,0,1,5.113,5.113V31.278a5.113,5.113,0,0,1-5.113,5.113H5.113A5.113,5.113,0,0,1,0,31.278V5.114A5.114,5.114,0,0,1,5.114,0Z" fill="#154f8d"/>
+          </g>
+        </g>
+        <g id="Grupo_130309" data-name="Grupo 130309" transform="translate(7.064 9.262)">
+          <g id="Grupo_130308" data-name="Grupo 130308">
+            <g id="Grupo_130307" data-name="Grupo 130307">
+              <g id="Grupo_130306" data-name="Grupo 130306">
+                <g id="Grupo_130305" data-name="Grupo 130305">
+                  <g id="Grupo_130304" data-name="Grupo 130304">
+                    <path id="Trazado_190420" data-name="Trazado 190420" d="M1832.7,1544.24l3.462-3.462,6.675,5.936,11.149-11.193,3.215,3.462-14.857,14.406Z" transform="translate(-1832.695 -1535.521)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_130426" data-name="Grupo 130426" transform="translate(1641.715 1489.274)">
+        <g id="Grupo_130311" data-name="Grupo 130311">
+          <path id="Trazado_190421" data-name="Trazado 190421" d="M1861.837,1481.533H1629.353a7.257,7.257,0,0,0-7.257,7.257V1653a7.256,7.256,0,0,0,7.257,7.257h89.227l-4.327,28.688h64.7l-3.614-28.688h86.5a7.256,7.256,0,0,0,7.257-7.257V1488.79A7.258,7.258,0,0,0,1861.837,1481.533Z" transform="translate(-1622.096 -1481.533)" fill="#fdb32b"/>
+        </g>
+        <g id="Grupo_130315" data-name="Grupo 130315" transform="translate(118.909 160.069)">
+          <g id="Grupo_130314" data-name="Grupo 130314">
+            <g id="Grupo_130313" data-name="Grupo 130313">
+              <g id="Grupo_130312" data-name="Grupo 130312">
+                <path id="Trazado_190422" data-name="Trazado 190422" d="M1725.154,1611.293c3.162,4.52-1.787,9.469-6.308,6.308a1.622,1.622,0,0,1-.389-.39c-3.154-4.519,1.789-9.461,6.308-6.307A1.556,1.556,0,0,1,1725.154,1611.293Z" transform="translate(-1717.461 -1609.907)" fill="#1a2e35"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_130316" data-name="Grupo 130316" transform="translate(6.502 6.27)">
+          <path id="Rectángulo_293606" data-name="Rectángulo 293606" d="M5.024,0H229a5.024,5.024,0,0,1,5.024,5.024V142.413a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.024A5.024,5.024,0,0,1,5.024,0Z" fill="#f2f4f5"/>
+        </g>
+        <g id="Grupo_130317" data-name="Grupo 130317" transform="translate(90.173 178.583)">
+          <path id="Trazado_190423" data-name="Trazado 190423" d="M1781.467,1624.9c0,.08-19.488.143-43.524.143s-43.529-.063-43.529-.143,19.485-.143,43.529-.143S1781.467,1624.821,1781.467,1624.9Z" transform="translate(-1694.414 -1624.756)" fill="#1a2e35"/>
+        </g>
+        <g id="Grupo_130380" data-name="Grupo 130380" transform="translate(20.29 17.519)">
+          <g id="Grupo_130318" data-name="Grupo 130318" transform="translate(9.718)">
+            <rect id="Rectángulo_293607" data-name="Rectángulo 293607" width="17.058" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130319" data-name="Grupo 130319" transform="translate(9.718 16.122)">
+            <rect id="Rectángulo_293608" data-name="Rectángulo 293608" width="8.529" height="3.599" fill="#0ddcf1"/>
+          </g>
+          <g id="Grupo_130320" data-name="Grupo 130320" transform="translate(16.137 24.23)">
+            <rect id="Rectángulo_293609" data-name="Rectángulo 293609" width="12.01" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130321" data-name="Grupo 130321" transform="translate(30.056 24.23)">
+            <rect id="Rectángulo_293610" data-name="Rectángulo 293610" width="6.998" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130322" data-name="Grupo 130322" transform="translate(85.405 24.23)">
+            <rect id="Rectángulo_293611" data-name="Rectángulo 293611" width="14.392" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130323" data-name="Grupo 130323" transform="translate(117.544 32.134)">
+            <rect id="Rectángulo_293612" data-name="Rectángulo 293612" width="24.313" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130324" data-name="Grupo 130324" transform="translate(167.687 24.23)">
+            <rect id="Rectángulo_293613" data-name="Rectángulo 293613" width="11.675" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130325" data-name="Grupo 130325" transform="translate(182.943 24.23)">
+            <rect id="Rectángulo_293614" data-name="Rectángulo 293614" width="23.475" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130326" data-name="Grupo 130326" transform="translate(16.137 32.134)">
+            <rect id="Rectángulo_293615" data-name="Rectángulo 293615" width="12.01" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130327" data-name="Grupo 130327" transform="translate(8.756 40.017)">
+            <rect id="Rectángulo_293616" data-name="Rectángulo 293616" width="12.011" height="3.599" fill="#0ddcf1"/>
+          </g>
+          <g id="Grupo_130328" data-name="Grupo 130328" transform="translate(15.156 47.901)">
+            <rect id="Rectángulo_293617" data-name="Rectángulo 293617" width="5.611" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130329" data-name="Grupo 130329" transform="translate(35.754 64.508)">
+            <rect id="Rectángulo_293618" data-name="Rectángulo 293618" width="5.611" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130330" data-name="Grupo 130330" transform="translate(112.94 94.514)">
+            <rect id="Rectángulo_293619" data-name="Rectángulo 293619" width="10.963" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130331" data-name="Grupo 130331" transform="translate(158.294 94.514)">
+            <rect id="Rectángulo_293620" data-name="Rectángulo 293620" width="26.858" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130332" data-name="Grupo 130332" transform="translate(71.663 86.638)">
+            <rect id="Rectángulo_293621" data-name="Rectángulo 293621" width="10.963" height="3.599" fill="#e1e1e1"/>
+          </g>
+          <g id="Grupo_130333" data-name="Grupo 130333" transform="translate(31.939 79.879)">
+            <rect id="Rectángulo_293622" data-name="Rectángulo 293622" width="10.963" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130334" data-name="Grupo 130334" transform="translate(93.379 94.514)">
+            <rect id="Rectángulo_293623" data-name="Rectángulo 293623" width="17.286" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130335" data-name="Grupo 130335" transform="translate(15.156 55.931)">
+            <rect id="Rectángulo_293624" data-name="Rectángulo 293624" width="9.105" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130336" data-name="Grupo 130336" transform="translate(15.156 64.643)">
+            <rect id="Rectángulo_293625" data-name="Rectángulo 293625" width="16.89" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130337" data-name="Grupo 130337" transform="translate(15.156 71.314)">
+            <rect id="Rectángulo_293626" data-name="Rectángulo 293626" width="24.713" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130338" data-name="Grupo 130338" transform="translate(59.929 71.314)">
+            <rect id="Rectángulo_293627" data-name="Rectángulo 293627" width="24.714" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130339" data-name="Grupo 130339" transform="translate(31.721 86.638)">
+            <rect id="Rectángulo_293628" data-name="Rectángulo 293628" width="34.699" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130340" data-name="Grupo 130340" transform="translate(31.721 94.514)">
+            <rect id="Rectángulo_293629" data-name="Rectángulo 293629" width="58.689" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130341" data-name="Grupo 130341" transform="translate(13.965 102.391)">
+            <rect id="Rectángulo_293630" data-name="Rectángulo 293630" width="58.69" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130342" data-name="Grupo 130342" transform="translate(42.477 71.314)">
+            <rect id="Rectángulo_293631" data-name="Rectángulo 293631" width="14.826" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130343" data-name="Grupo 130343" transform="translate(22.981 47.901)">
+            <rect id="Rectángulo_293632" data-name="Rectángulo 293632" width="15.299" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130344" data-name="Grupo 130344" transform="translate(26.351 55.932)">
+            <rect id="Rectángulo_293633" data-name="Rectángulo 293633" width="15.299" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130345" data-name="Grupo 130345" transform="translate(60.413 55.932)">
+            <rect id="Rectángulo_293634" data-name="Rectángulo 293634" width="40.506" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130346" data-name="Grupo 130346" transform="translate(102.022 55.932)">
+            <rect id="Rectángulo_293635" data-name="Rectángulo 293635" width="46.784" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130347" data-name="Grupo 130347" transform="translate(44.165 55.932)">
+            <rect id="Rectángulo_293636" data-name="Rectángulo 293636" width="12.661" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130348" data-name="Grupo 130348" transform="translate(40.375 47.901)">
+            <rect id="Rectángulo_293637" data-name="Rectángulo 293637" width="20.054" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130349" data-name="Grupo 130349" transform="translate(62.642 47.901)">
+            <rect id="Rectángulo_293638" data-name="Rectángulo 293638" width="11.164" height="3.599" fill="#e1e1e1"/>
+          </g>
+          <g id="Grupo_130350" data-name="Grupo 130350" transform="translate(30.056 32.134)">
+            <rect id="Rectángulo_293639" data-name="Rectángulo 293639" width="12.521" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130351" data-name="Grupo 130351" transform="translate(51.082 32.134)">
+            <rect id="Rectángulo_293640" data-name="Rectángulo 293640" width="61.821" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130352" data-name="Grupo 130352" transform="translate(153.071 55.932)">
+            <rect id="Rectángulo_293641" data-name="Rectángulo 293641" width="29.231" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130353" data-name="Grupo 130353" transform="translate(126.75 94.514)">
+            <rect id="Rectángulo_293642" data-name="Rectángulo 293642" width="29.231" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130354" data-name="Grupo 130354" transform="translate(102.241 24.23)">
+            <rect id="Rectángulo_293643" data-name="Rectángulo 293643" width="60.899" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130355" data-name="Grupo 130355" transform="translate(39.24 24.23)">
+            <rect id="Rectángulo_293644" data-name="Rectángulo 293644" width="42.378" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130356" data-name="Grupo 130356" transform="translate(9.718 7.631)">
+            <rect id="Rectángulo_293645" data-name="Rectángulo 293645" width="28.532" height="3.601" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130357" data-name="Grupo 130357" transform="translate(41.097 7.631)">
+            <rect id="Rectángulo_293646" data-name="Rectángulo 293646" width="39.07" height="3.601" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130358" data-name="Grupo 130358" transform="translate(29.441)">
+            <rect id="Rectángulo_293647" data-name="Rectángulo 293647" width="12.56" height="3.599" fill="#e1e1e1"/>
+          </g>
+          <g id="Grupo_130359" data-name="Grupo 130359">
+            <rect id="Rectángulo_293648" data-name="Rectángulo 293648" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130360" data-name="Grupo 130360" transform="translate(0 7.876)">
+            <rect id="Rectángulo_293649" data-name="Rectángulo 293649" width="3.486" height="3.601" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130361" data-name="Grupo 130361" transform="translate(0 15.753)">
+            <rect id="Rectángulo_293650" data-name="Rectángulo 293650" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130362" data-name="Grupo 130362" transform="translate(0 23.629)">
+            <rect id="Rectángulo_293651" data-name="Rectángulo 293651" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130363" data-name="Grupo 130363" transform="translate(0 31.505)">
+            <rect id="Rectángulo_293652" data-name="Rectángulo 293652" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130364" data-name="Grupo 130364" transform="translate(0 39.381)">
+            <rect id="Rectángulo_293653" data-name="Rectángulo 293653" width="3.486" height="3.601" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130365" data-name="Grupo 130365" transform="translate(0 47.258)">
+            <rect id="Rectángulo_293654" data-name="Rectángulo 293654" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130366" data-name="Grupo 130366" transform="translate(0 55.133)">
+            <rect id="Rectángulo_293655" data-name="Rectángulo 293655" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130367" data-name="Grupo 130367" transform="translate(0 63.011)">
+            <rect id="Rectángulo_293656" data-name="Rectángulo 293656" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130368" data-name="Grupo 130368" transform="translate(34.377 119.404)">
+            <rect id="Rectángulo_293657" data-name="Rectángulo 293657" width="5.611" height="3.599" fill="#e1e1e1"/>
+          </g>
+          <g id="Grupo_130369" data-name="Grupo 130369" transform="translate(14.075 119.404)">
+            <rect id="Rectángulo_293658" data-name="Rectángulo 293658" width="16.891" height="3.599" fill="#0ddcf1"/>
+          </g>
+          <g id="Grupo_130370" data-name="Grupo 130370" transform="translate(0 119.006)">
+            <rect id="Rectángulo_293659" data-name="Rectángulo 293659" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130371" data-name="Grupo 130371" transform="translate(0 70.886)">
+            <rect id="Rectángulo_293660" data-name="Rectángulo 293660" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130372" data-name="Grupo 130372" transform="translate(0 78.762)">
+            <rect id="Rectángulo_293661" data-name="Rectángulo 293661" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130373" data-name="Grupo 130373" transform="translate(0 86.638)">
+            <rect id="Rectángulo_293662" data-name="Rectángulo 293662" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130374" data-name="Grupo 130374" transform="translate(0 94.514)">
+            <rect id="Rectángulo_293663" data-name="Rectángulo 293663" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130375" data-name="Grupo 130375" transform="translate(0 102.391)">
+            <rect id="Rectángulo_293664" data-name="Rectángulo 293664" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130376" data-name="Grupo 130376" transform="translate(13.965 110.678)">
+            <rect id="Rectángulo_293665" data-name="Rectángulo 293665" width="17.111" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130377" data-name="Grupo 130377" transform="translate(34.377 110.678)">
+            <rect id="Rectángulo_293666" data-name="Rectángulo 293666" width="38.703" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130378" data-name="Grupo 130378" transform="translate(0 110.678)">
+            <rect id="Rectángulo_293667" data-name="Rectángulo 293667" width="3.486" height="3.599" fill="#375a64"/>
+          </g>
+          <g id="Grupo_130379" data-name="Grupo 130379" transform="translate(84.933 7.609)">
+            <rect id="Rectángulo_293668" data-name="Rectángulo 293668" width="12.561" height="3.598" fill="#e1e1e1"/>
+          </g>
+        </g>
+        <g id="Grupo_130381" data-name="Grupo 130381" transform="translate(124.146 88.148)" opacity="0.3">
+          <path id="Trazado_190424" data-name="Trazado 190424" d="M1730.242,1552.228h-8.582v69.705h102.227l-2.663-68.009Z" transform="translate(-1721.66 -1552.228)"/>
+        </g>
+        <g id="Grupo_130411" data-name="Grupo 130411" transform="translate(130.731 77.848)">
+          <g id="Grupo_130382" data-name="Grupo 130382">
+            <rect id="Rectángulo_293669" data-name="Rectángulo 293669" width="102.291" height="73.418" fill="#fff2d6"/>
+          </g>
+          <g id="Grupo_130410" data-name="Grupo 130410" transform="translate(9.995 7.843)">
+            <g id="Grupo_130383" data-name="Grupo 130383" transform="translate(9.424)">
+              <rect id="Rectángulo_293670" data-name="Rectángulo 293670" width="16.543" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130384" data-name="Grupo 130384" transform="translate(9.424 15.634)">
+              <rect id="Rectángulo_293671" data-name="Rectángulo 293671" width="8.272" height="3.491" fill="#0ddcf1"/>
+            </g>
+            <g id="Grupo_130385" data-name="Grupo 130385" transform="translate(15.649 23.497)">
+              <rect id="Rectángulo_293672" data-name="Rectángulo 293672" width="11.646" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130386" data-name="Grupo 130386" transform="translate(29.148 23.497)">
+              <rect id="Rectángulo_293673" data-name="Rectángulo 293673" width="6.785" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130387" data-name="Grupo 130387" transform="translate(15.649 31.162)">
+              <rect id="Rectángulo_293674" data-name="Rectángulo 293674" width="11.646" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130388" data-name="Grupo 130388" transform="translate(8.493 38.807)">
+              <rect id="Rectángulo_293675" data-name="Rectángulo 293675" width="11.646" height="3.491" fill="#0ddcf1"/>
+            </g>
+            <g id="Grupo_130389" data-name="Grupo 130389" transform="translate(14.697 46.453)">
+              <rect id="Rectángulo_293676" data-name="Rectángulo 293676" width="5.442" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130390" data-name="Grupo 130390" transform="translate(14.697 54.24)">
+              <rect id="Rectángulo_293677" data-name="Rectángulo 293677" width="8.831" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130391" data-name="Grupo 130391" transform="translate(22.287 46.453)">
+              <rect id="Rectángulo_293678" data-name="Rectángulo 293678" width="14.835" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130392" data-name="Grupo 130392" transform="translate(25.555 54.241)">
+              <rect id="Rectángulo_293679" data-name="Rectángulo 293679" width="14.835" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130393" data-name="Grupo 130393" transform="translate(58.587 54.241)">
+              <rect id="Rectángulo_293680" data-name="Rectángulo 293680" width="17.549" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130394" data-name="Grupo 130394" transform="translate(42.83 54.241)">
+              <rect id="Rectángulo_293681" data-name="Rectángulo 293681" width="12.279" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130395" data-name="Grupo 130395" transform="translate(39.155 46.453)">
+              <rect id="Rectángulo_293682" data-name="Rectángulo 293682" width="19.447" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130396" data-name="Grupo 130396" transform="translate(60.749 46.453)">
+              <rect id="Rectángulo_293683" data-name="Rectángulo 293683" width="10.825" height="3.49" fill="#fff"/>
+            </g>
+            <g id="Grupo_130397" data-name="Grupo 130397" transform="translate(29.148 31.162)">
+              <rect id="Rectángulo_293684" data-name="Rectángulo 293684" width="12.141" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130398" data-name="Grupo 130398" transform="translate(38.054 23.497)">
+              <rect id="Rectángulo_293685" data-name="Rectángulo 293685" width="41.097" height="3.49" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130399" data-name="Grupo 130399" transform="translate(9.424 7.4)">
+              <rect id="Rectángulo_293686" data-name="Rectángulo 293686" width="27.671" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130400" data-name="Grupo 130400" transform="translate(39.855 7.4)">
+              <rect id="Rectángulo_293687" data-name="Rectángulo 293687" width="37.889" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130401" data-name="Grupo 130401" transform="translate(28.551)">
+              <rect id="Rectángulo_293688" data-name="Rectángulo 293688" width="12.18" height="3.491" fill="#fff"/>
+            </g>
+            <g id="Grupo_130402" data-name="Grupo 130402">
+              <rect id="Rectángulo_293689" data-name="Rectángulo 293689" width="3.38" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130403" data-name="Grupo 130403" transform="translate(0 7.638)">
+              <rect id="Rectángulo_293690" data-name="Rectángulo 293690" width="3.38" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130404" data-name="Grupo 130404" transform="translate(0 15.276)">
+              <rect id="Rectángulo_293691" data-name="Rectángulo 293691" width="3.38" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130405" data-name="Grupo 130405" transform="translate(0 22.914)">
+              <rect id="Rectángulo_293692" data-name="Rectángulo 293692" width="3.38" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130406" data-name="Grupo 130406" transform="translate(0 30.552)">
+              <rect id="Rectángulo_293693" data-name="Rectángulo 293693" width="3.38" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130407" data-name="Grupo 130407" transform="translate(0 38.19)">
+              <rect id="Rectángulo_293694" data-name="Rectángulo 293694" width="3.38" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130408" data-name="Grupo 130408" transform="translate(0 45.828)">
+              <rect id="Rectángulo_293695" data-name="Rectángulo 293695" width="3.38" height="3.491" fill="#375a64"/>
+            </g>
+            <g id="Grupo_130409" data-name="Grupo 130409" transform="translate(0 53.466)">
+              <rect id="Rectángulo_293696" data-name="Rectángulo 293696" width="3.38" height="3.491" fill="#375a64"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_130412" data-name="Grupo 130412" transform="translate(39.985 152.545)" opacity="0.3">
+          <path id="Trazado_190425" data-name="Trazado 190425" d="M1689.779,1629.659c1.3-6.459-2.909-25.786-2.909-25.786l-31.41,3.99-1.3,21.652Z" transform="translate(-1654.164 -1603.873)"/>
+        </g>
+        <g id="Grupo_130422" data-name="Grupo 130422" transform="translate(31.23 152.545)">
+          <g id="Grupo_130413" data-name="Grupo 130413">
+            <path id="Trazado_190426" data-name="Trazado 190426" d="M1651.522,1603.873s1.378,25.7-4.38,34.53l39.115.964a169.117,169.117,0,0,0,2.347-35.494Z" transform="translate(-1647.142 -1603.873)" fill="#0ddcf1"/>
+          </g>
+          <g id="Grupo_130415" data-name="Grupo 130415" transform="translate(4.988 4.807)">
+            <g id="Grupo_130414" data-name="Grupo 130414">
+              <path id="Trazado_190427" data-name="Trazado 190427" d="M1687.511,1607.9c0,.094-8.143.168-18.183.168s-18.186-.075-18.186-.168,8.14-.168,18.186-.168S1687.511,1607.8,1687.511,1607.9Z" transform="translate(-1651.142 -1607.728)" fill="#1a2e35"/>
+            </g>
+          </g>
+          <g id="Grupo_130417" data-name="Grupo 130417" transform="translate(7.938 13.599)">
+            <g id="Grupo_130416" data-name="Grupo 130416">
+              <path id="Trazado_190428" data-name="Trazado 190428" d="M1682.578,1614.949c0,.092-6.508.168-14.534.168s-14.536-.076-14.536-.168,6.509-.17,14.536-.17S1682.578,1614.856,1682.578,1614.949Z" transform="translate(-1653.508 -1614.779)" fill="#1a2e35"/>
+            </g>
+          </g>
+          <g id="Grupo_130419" data-name="Grupo 130419" transform="translate(8.258 18.4)">
+            <g id="Grupo_130418" data-name="Grupo 130418">
+              <path id="Trazado_190429" data-name="Trazado 190429" d="M1682.835,1618.8c0,.093-6.509.168-14.534.168s-14.536-.075-14.536-.168,6.506-.168,14.536-.168S1682.835,1618.7,1682.835,1618.8Z" transform="translate(-1653.765 -1618.63)" fill="#1a2e35"/>
+            </g>
+          </g>
+          <g id="Grupo_130421" data-name="Grupo 130421" transform="translate(7.345 23.201)">
+            <g id="Grupo_130420" data-name="Grupo 130420">
+              <path id="Trazado_190430" data-name="Trazado 190430" d="M1682.1,1622.648c0,.094-6.508.168-14.534.168s-14.535-.075-14.535-.168,6.505-.168,14.535-.168S1682.1,1622.556,1682.1,1622.648Z" transform="translate(-1653.033 -1622.48)" fill="#1a2e35"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_130423" data-name="Grupo 130423" transform="translate(26.003 153.027)" opacity="0.3">
+          <path id="Trazado_190431" data-name="Trazado 190431" d="M1646.092,1604.26s1.672,19.015,1.672,25.784h-4.814Z" transform="translate(-1642.95 -1604.26)"/>
+        </g>
+        <g id="Grupo_130425" data-name="Grupo 130425" transform="translate(13.236 153.027)">
+          <g id="Grupo_130424" data-name="Grupo 130424">
+            <path id="Trazado_190432" data-name="Trazado 190432" d="M1637.093,1604.26s1.377,25.695-4.381,34.529l12.878,0s3.721-14.04,3.031-34.525Z" transform="translate(-1632.711 -1604.26)" fill="#abf1f3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_130442" data-name="Grupo 130442" transform="translate(1596.71 1450.18)">
+        <g id="Grupo_130428" data-name="Grupo 130428" transform="translate(8.673)">
+          <g id="Grupo_130427" data-name="Grupo 130427">
+            <path id="Rectángulo_293697" data-name="Rectángulo 293697" d="M5.114,0H54.007a5.114,5.114,0,0,1,5.114,5.114V54.009a5.113,5.113,0,0,1-5.113,5.113H5.113A5.113,5.113,0,0,1,0,54.009V5.114A5.114,5.114,0,0,1,5.114,0Z" fill="#0a998e"/>
+          </g>
+        </g>
+        <g id="Grupo_130431" data-name="Grupo 130431">
+          <g id="Grupo_130430" data-name="Grupo 130430">
+            <g id="Grupo_130429" data-name="Grupo 130429">
+              <path id="Rectángulo_293698" data-name="Rectángulo 293698" d="M5.114,0h48.9a5.113,5.113,0,0,1,5.113,5.113v48.9a5.113,5.113,0,0,1-5.113,5.113H5.113A5.113,5.113,0,0,1,0,54.009V5.114A5.114,5.114,0,0,1,5.114,0Z" fill="#0ddcf1"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_130439" data-name="Grupo 130439" transform="translate(10.082 10.7)">
+          <g id="Grupo_130438" data-name="Grupo 130438">
+            <g id="Grupo_130437" data-name="Grupo 130437">
+              <g id="Grupo_130436" data-name="Grupo 130436">
+                <g id="Grupo_130435" data-name="Grupo 130435">
+                  <g id="Grupo_130434" data-name="Grupo 130434">
+                    <g id="Grupo_130433" data-name="Grupo 130433">
+                      <g id="Grupo_130432" data-name="Grupo 130432">
+                        <path id="Trazado_190433" data-name="Trazado 190433" d="M1605.241,1464.444a16.053,16.053,0,0,1,3.91-1.7l.805-3.869,6.538-.115.941,3.839a15.926,15.926,0,0,1,3.966,1.56l3.306-2.167,4.7,4.544-2.049,3.378a15.974,15.974,0,0,1,1.7,3.91l3.869.8.115,6.539-3.838.941a16.085,16.085,0,0,1-1.561,3.967l2.165,3.3-4.54,4.7-3.379-2.049a15.976,15.976,0,0,1-3.909,1.7l-.807,3.87-6.537.115-.941-3.839a16.1,16.1,0,0,1-3.966-1.56l-3.305,2.165-4.7-4.541,2.049-3.379a16.013,16.013,0,0,1-1.7-3.909l-3.869-.805-.115-6.539,3.838-.941a16.089,16.089,0,0,1,1.561-3.966l-2.165-3.3,4.54-4.7,3.379,2.049Zm3.486,8.709a7.015,7.015,0,1,0,9.918-.175A7.012,7.012,0,0,0,1608.728,1473.154Z" transform="translate(-1594.088 -1458.761)" fill="#fff"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_130440" data-name="Grupo 130440" opacity="0.3">
+          <path id="Trazado_190434" data-name="Trazado 190434" d="M1631.844,1450.18,1586,1486.794v7.129l54.662-43.743Z" transform="translate(-1586.002 -1450.18)" fill="#fff"/>
+        </g>
+        <g id="Grupo_130441" data-name="Grupo 130441" transform="translate(0.051 6.23)" opacity="0.3">
+          <path id="Trazado_190435" data-name="Trazado 190435" d="M1586.049,1501l59.065-45.823v12.864l-52.893,40.029h0a6.179,6.179,0,0,1-6.178-6.231Z" transform="translate(-1586.043 -1455.176)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
