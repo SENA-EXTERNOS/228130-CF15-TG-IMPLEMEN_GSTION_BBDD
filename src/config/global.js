@@ -42,47 +42,8 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Definición y conceptos de algoritmos',
+        titulo: 'Metodologías para solución de problemas, usando computadoras',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo:
-              'Metodología para la solución de problemas usando computadoras',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Concepto de algoritmo',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Construcción de expresiones algorítmicas',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Variables y constantes',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Operaciones aritméticas, relacionales y lógicas',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Representación gráfica de algoritmos',
-            hash: 't_1_6',
-          },
-        ],
       },
 
       {
@@ -91,26 +52,6 @@ export default {
         numero: '2',
         titulo: 'Estructuras de control y funciones',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Conceptos y aplicación de condicionales',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Estructuras de control',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Contadores y acumuladores',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -162,7 +103,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Funciones y procedimientos',
+      tema: 'Definición de funciones y procedimientos',
       referencia:
         'Garcia, M. (2020). Fundamentos de programación, algoritmos y estructuras de datos.',
       tipo: 'Página web',
@@ -170,7 +111,7 @@ export default {
         'http://www.profmatiasgarcia.com.ar/uploads/tutoriales/Algoritmos2.pdf ',
     },
     {
-      tema: 'Algoritmos',
+      tema: 'Metodologías para la solución de problemas, usando computadoras',
       referencia:
         'Guerrero, L., Villegas E. (2016). Análisis y diseño de algoritmos, un enfoque práctico. Editorial Universidad Nacional de Colombia.',
       tipo: 'Libro PDF',
@@ -178,7 +119,7 @@ export default {
         'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_elibroELB129991&context=L&vid=SENA&lang=es_ES&search_scope=sena_completo&adaptor=Local%20Search%20Engine&tab=sena_completo&query=any,contains,ALGORITMOS&offset=0 ',
     },
     {
-      tema: 'Estructuras de control',
+      tema: 'Estructuras de control y funciones',
       referencia:
         'López, M, y Silva, E. (2018). Verificación formal de algoritmos. Ejercicios resueltos. Universidad de Cádiz.',
       tipo: 'Libro PDF',
@@ -186,24 +127,24 @@ export default {
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB33887',
     },
     {
-      tema: 'Operadores',
+      tema: 'Metodologías para la solución de problemas, usando computadoras',
       referencia:
-        'Muro, A. (2018, mayo 29) Informática, Operadores, Programación.',
+        'Muro, A. (2018) <b>Informática, Operadores, Programación.</b>',
       tipo: 'Página web',
       link: 'https://procomsys.wordpress.com/tag/programacion/',
     },
     {
-      tema: 'Síntesis',
+      tema: 'Metodologías para la solución de problemas, usando computadoras',
       referencia:
-        'Respuestas rápidas (2020, julio 31). Cuáles son las principales herramientas ofimáticas.',
+        'Respuestas rápidas. (2020). <b>Cuáles son las principales herramientas ofimáticas.</b>',
       tipo: 'Página web',
       link:
         'https://respuestasrapidas.com.mx/cuales-son-los-principales-herramientas-ofimaticas/ ',
     },
     {
-      tema: 'Estructuras simples',
+      tema: 'Estructuras de control y funciones',
       referencia:
-        'Rincón, R. (2017). Introducción y construcción de algoritmos. Creative commons.',
+        'Rincón, R. (2017).<b> Introducción y construcción de algoritmos. </b>',
       tipo: 'Libro PDF',
       link:
         'https://pdfcookie.com/documents/oa-introduccion-y-construccion-de-algoritmospdf-025ek0myqk21 ',

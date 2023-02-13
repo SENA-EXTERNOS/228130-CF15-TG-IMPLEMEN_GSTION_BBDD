@@ -16,7 +16,9 @@
             img(src="@/assets/curso/temas/if1.svg", alt="imagen relacionada")
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p Estimado aprendiz bienvenido, el presente componente contiene información sobre algoritmos, estructuras y operaciones, temáticas muy importantes en el desarrollo del programa que están cursando. Les invito a ver el video de presentación para identificar el contexto de aprendizaje.
+            p Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán aspectos generales y claves sobre algoritmos, estructuras y operaciones, temáticas de suma importancia en su proceso formativo. Con el estudio responsable de este componente, afiance sus conocimientos, saberes y habilidades para la implementación y gestión de bases de datos, la aplicación de metodologías para la solución de problemas informáticos, aplicación de estructuras de control, funciones y procedimientos.
+            p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+
 
     figure
       .video

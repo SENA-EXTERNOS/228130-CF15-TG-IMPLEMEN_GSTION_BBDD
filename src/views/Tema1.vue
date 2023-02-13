@@ -5,12 +5,8 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Definición y conceptos de algoritmos
+      h1 Metodologías para solución de problemas, usando computadoras
 
-    p.mb-5 Se presentan a continuación algunos conceptos relacionados con los algoritmos para tenerlos en cuenta.
-
-    #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1 Metodología para la solución de problemas usando computadoras
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-1.col-sm-8
@@ -54,7 +50,7 @@
                 img(src="@/assets/curso/temas/t1/f5.svg", alt="icono relacionado")
             .col-md-7
               p.mb-0 Es el paso donde se escribe o transcribe una serie de instrucciones específicas, de acuerdo a la lógica establecida en el diseño, utilizando un lenguaje de programación con sentencias y sintaxis propias del mismo. Esta serie de instrucciones son también conocidas como código fuente, el cual se escribe en un lenguaje de alto nivel.
-          .row.justify-content-around(titulo="Prueba y Depuración")
+          .row.justify-content-around(titulo="Prueba y depuración")
             .col-md-3.mb-4.mb-md-0
               figure
                 img(src="@/assets/curso/temas/t1/f6.svg", alt="icono relacionado")
@@ -82,17 +78,14 @@
                 strong.cp Manual del usuario: 
                 | está orientado a los usuarios finales que utilizarán el sistema. Este explica paso a paso el funcionamiento del programa, con el fin de que el usuario final conozca de manera detallada el programa para obtener el resultado deseado.
 
-    Separador
-
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.2 Concepto de algoritmo
+    h3 Concepto de algoritmo
 
     .row.justify-content-center.mb-5
       .col-md-8.order-md-first.order-last
         p Al hablar de un algoritmo, se hace referencia a un conjunto de instrucciones de forma ordenada, que buscan solucionar un determinado problema y que están relacionadas lógicamente. La palabra algoritmo deriva de la traducción al latín de la palabra árabe 
           em alkhowarizmi
           | , nombre de un matemático y astrónomo árabe que escribió un tratado sobre manipulación de números y ecuaciones en el siglo IX.
-        p En resumen, un algoritmo es una serie de instrucciones organizadas que describen el proceso que se debe seguir, para solucionar un problema por medio de una computadora. Por tanto, todo algoritmo tiene unas características primordiales que debe llevar a cabo, estas son:
+        p Es decir, un algoritmo es una serie de instrucciones organizadas que describen el proceso que se debe seguir, para solucionar un problema, por medio de una computadora. Por tanto, todo algoritmo tiene unas características primordiales que debe llevar a cabo, estas son:
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
@@ -133,22 +126,21 @@
       i.fas.fa-square.cac.me-3
       | Representación gráfica de los algoritmos
 
-    p Para representar un algoritmo, es necesario seleccionar algún método que permita desligarlo del lenguaje de programación, permitiendo así que el mismo algoritmo pueda ser codificado, sin importar cual sea el lenguaje.
+    p Para representar un algoritmo, es necesario seleccionar algún método que permita desligarlo del lenguaje de programación, permitiendo así que el mismo algoritmo, pueda ser codificado, sin importar cuál sea el lenguaje.
     p Los métodos más conocidos para representar gráficamente un algoritmo son: diagrama de flujo y lenguaje de especificación de algoritmos: pseudocódigo.
 
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
       |  Diagrama de flujo
 
-    p Para Joyanes (2020) un diagrama de flujo o 
-      em flowchart 
-      | en inglés, es uno de los métodos gráficos de representación de algoritmos más antiguos, que a su vez, es uno de los más utilizados. Aunque en la actualidad su uso se ha reducido, sobre todo, con la aparición de lenguajes de programación estructurados. Un diagrama de flujo es un diagrama que utiliza los símbolos y que tiene los pasos de algoritmo escritos en cajas unidas por flechas, denominadas líneas de flujo, que indican la secuencia en que se debe llevar a cabo. 
+    p Para Joyanes (2020), un diagrama de flujo o <i>flowchart</i> en inglés, es uno de los métodos gráficos de representación de algoritmos más antiguos que, a su vez, es uno de los más utilizados. Aunque, en la actualidad, su uso se ha reducido, sobre todo con la aparición de lenguajes de programación estructurados. Un diagrama de flujo es un diagrama que utiliza los símbolos y que tiene los pasos de algoritmo escritos en cajas unidas por flechas, denominadas líneas de flujo, que indican la secuencia en que se debe llevar a cabo. 
+    p El siguiente esquema muestra un ejemplo de diagrama de flujo:
 
     .col-md-6.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        h5 Figura 1.
-        br
-        em Ejemplo de un diagrama de flujo
+        h5 Figura 1
+        p.mb-0
+          em Ejemplo de un diagrama de flujo
       figure
         img(src="@/assets/curso/temas/t1/f9.svg", alt="Ejemplo de un diagrama de flujo")
         figcaption Nota: Adaptada de Wikimedia commonds (2007). 
@@ -238,15 +230,11 @@
                   li - Lógicos
 
 
-    Separador
-
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.3 Construcción de expresiones algorítmicas
+    h3 Construcción de expresiones algorítmicas
 
     p Para realizar la construcción de expresiones algorítmicas se deben tener en cuenta las siguientes consideraciones:
-
-    .row.justify-content-center.mb-5
-      .col-md-3
+    .row.mb-5
+      .col-md-6.col-lg-3.mb-5.col-auto
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false", style="background-color: #B9DDFC")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
@@ -254,7 +242,7 @@
               h4 Analizar el problema
               p Analizar la situación teniendo en cuenta los requerimientos del cliente y organizarlos en un orden lógico de pasos para resolver el problema.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f12.svg')})`}")
-      .col-md-3
+      .col-md-6.col-lg-3.mb-5.col-auto
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false", style="background-color: #B9DDFC")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
@@ -262,7 +250,7 @@
               h4 Diseñar el algoritmo
               p En este paso se describe la secuencia ordenada de pasos del algoritmo, para diseñar una solución que conduce a resolver el problema citado a través de un diagrama de flujo o pseudocódigo.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f13.svg')})`}")
-      .col-md-3
+      .col-md-6.col-lg-3.mb-5.col-auto
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false", style="background-color: #B9DDFC")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
@@ -270,7 +258,7 @@
               h4 Expresar el algoritmo
               p Se debe expresar como un programa en un lenguaje de programación adecuado. También conocido como fase de codificación.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f14.svg')})`}")
-      .col-md-3
+      .col-md-6.col-lg-3.mb-5.col-auto
         .tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false", style="background-color: #B9DDFC")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
@@ -280,10 +268,7 @@
                 em (bugs).
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f15.svg')})`}")
 
-    Separador
-
-    #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.4 Variables y constantes
+    p.mb-5 La formulación de algoritmos para enfrentar algunos problemas implica un análisis previo del problema mismo, es decir, identificar los datos iniciales, también denominados variables. Esto favorecerá que la formulación de soluciones sea más pertinente y, por lo mismo, efectiva. El siguiente video detallas los aspectos que se deben tener en cuenta acerca de las variables y las constantes:
 
     figure.mb-5
       .video
@@ -308,16 +293,13 @@
           figure
             img(src="@/assets/curso/temas/t1/f18.svg", alt="persona con boligrafo en la mano")
 
-    Separador
-
-    #t_1_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.5 Operaciones aritméticas, relacionales y lógicas
+    h3.mb-5 Operaciones aritméticas, relacionales y lógicas
 
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
       | Información a tener en cuenta
 
-    p Joyanes (2020) indica que: “Las expresiones son combinaciones de constantes, variables, símbolos de operación, paréntesis y nombres de funciones especiales”. 
+    p Joyanes (2020), indica que las <b>Expresiones</b> “son combinaciones de constantes, variables, símbolos de operación, paréntesis y nombres de funciones especiales”. 
     p Los operadores son elementos que relacionan de forma diferente los valores de una o más variables y/o constantes. Es decir, los operadores permiten manipular valores, para obtener nuevos valores en nuevas o diferentes variables.
 
     .cajon.color-acento-botones.p-4.mb-4
@@ -335,10 +317,7 @@
               li ● Reales: si alguno de ellos es real, el resultado es real.
 
           .col-md-8.tarjeta.p-3.fblanco
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Tabla 1.
-              br
-              em Operadores aritméticos
+
             figure
               img(src='@/assets/curso/temas/t1/f19.svg', alt='Texto que describa la imagen')
         .row.p-4
@@ -365,10 +344,7 @@
             h4 Operadores relacionales
             p El Departamento de Sistemas Informáticos Escuela Técnica Superior de Ingeniería ICAI (2020) indica que “Los operadores se utilizan para formar expresiones lógicas”.
           .col-md-8.tarjeta.p-3.fblanco
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Tabla 2.
-              br
-              em Operadores relacionales
+
             figure
               img(src='@/assets/curso/temas/t1/f21.svg', alt='Texto que describa la imagen')
         .row.p-4
@@ -376,10 +352,7 @@
             h4 Operadores lógicos
             p Se utilizan para establecer relaciones entre valores lógicos. Estos valores pueden ser resultado de una expresión relacional.
           .col-md-8.tarjeta.p-3.fblanco
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Tabla 2.
-              br
-              em Operadores lógicos
+
             figure
               img(src='@/assets/curso/temas/t1/f22.svg', alt='Texto que describa la imagen')
 
@@ -413,25 +386,22 @@
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
       | Tipos de operadores
-
+    p En cuanto a los tipos de operadores, se pueden mencionar los que se expresan en la siguiente gráfica:
     .col-md-8.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        h5 Figura 2.
+        h5 Figura 2
         br
         em Tipos de operadores
       figure
         img(src='@/assets/curso/temas/t1/f23.svg', alt='')
 
-    Separador 
-
-    #t_1_6.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.6 Representación gráfica de algoritmos
+    h3 Representación gráfica de algoritmos
     
     p A través de la siguiente imagen se puede ver la explicación de los algoritmos, de acuerdo a su representación gráfica:
 
     .col-md-9.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        h5 Tabla 4.
+        h5 Tabla 1
         br
         em Representación gráfica de algoritmos
       .tabla-a.color-acento-contenido.mb-5
@@ -452,7 +422,7 @@
               td(data-aos='fade-right') 
                 img(src='@/assets/curso/temas/t1/f25.svg', alt='', style='height:40px')
               td Entrada y salida
-              td Representa los datos de entrada y los de salida
+              td Representa los datos de entrada y los de salida.
             tr
               td(data-aos='fade-right') 
                 img(src='@/assets/curso/temas/t1/f26.svg', alt='', style='height:40px')

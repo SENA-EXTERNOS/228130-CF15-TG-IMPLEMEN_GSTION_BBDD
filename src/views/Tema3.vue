@@ -7,31 +7,26 @@
         span 3
       h1 Definición de funciones y procedimientos 
 
-    h3(data-aos="fade-right")
-      i.fas.fa-square.cac.me-3
-      | Procedimientos
 
     .row.justify-content-center.mb-5
       .col-md-8
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4 Procedimientos son módulos que se utilizan para elaborar un conjunto de instrucciones, independientes y reutilizables, pero definiendo claramente el significado y la utilidad de esa porción de programa
+            h4 Procedimientos son módulos que se utilizan para elaborar un conjunto de instrucciones, independientes y reutilizables, pero definiendo claramente el significado y la utilidad de esa porción de programa.         
             br
-            span - Rojas (2017) (Cohesión)  (p. 35). 
+            span Rojas (2017) 
             i.fas.fa-quote-right
         
         .fcac50.p-4.mb-4
           p.mb-0 En otras palabras, se puede decir que los procedimientos son fragmentos o pedazos de códigos que se pueden reutilizar dentro de la ejecución de un programa.
 
-        p 
-          i.fas.fa-circle.text-small.cac.me-2
-          b Funciones
+        p Entretanto las <b>funciones</b> son definidas por Rojas (2017), como
 
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4 Son módulos que tienen la misma definición de un procedimiento, pero con la particularidad de que permite devolver un valor en una variable
+            h4 módulos que tienen la misma definición de un procedimiento, pero con la particularidad que permiten devolver un valor en una variable
             br
             span - Rojas (2017) (p. 36). 
             i.fas.fa-quote-right
@@ -187,18 +182,17 @@
             figure
               img(src='@/assets/curso/temas/t3/f7.svg', alt='Texto que describa la imagen')
         h4.text-center Variables locales
-        p Joyanes (2020) indica que “Una variable local es aquella que está declarada y definida dentro de un subprograma, en el sentido de que está dentro de este subprograma y es distinta de las variables con el mismo nombre declaradas en cualquier parte del programa principal” (p. 223).
+        p Joyanes (2020), indica que “Una variable local es aquella que está declarada y definida dentro de un subprograma, en el sentido de que está dentro de este subprograma y es distinta de las variables con el mismo nombre, declaradas en cualquier parte del programa principal”.
+
       .col-md.tarjeta.color-primario.p-5.text-white
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/t3/f8.svg', alt='Texto que describa la imagen')
         h4.text-center Variables globales
-        p Joyanes (2020) indica que “Es aquella que está declarada para el programa o algoritmo principal, del que dependen todos los subprogramas” (p. 233).
+        p Joyanes (2020), indica que “Es aquella que está declarada para el programa o algoritmo principal, del que dependen todos los subprogramas”.
 
-    h3(data-aos="fade-right")
-      i.fas.fa-square.cac.me-3
-      | Comunicación con subprogramas
+    p En la comunicación con subprogramas, se deben tener en cuenta los parámetros y su uso. Por eso, tenga en cuenta su definición:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-7
@@ -229,7 +223,7 @@
         template(v-slot:imagen)
           figure
             img(src='@/assets/curso/temas/t3/f11.svg', alt='Texto que describa la imagen')
-        .tarjeta.fcac50.p-3(x="13%" y="15%" numero="1")
+        .tarjeta.fcac50.p-3.pnt-az(x="13%" y="15%" numero="1")
           .h5.mb-2 Entradas (E)
           p Las entradas proporcionan valores desde el programa que llama y se utilizan dentro del procedimiento.
         .tarjeta.fcac50.p-3(x="88.5%" y="15%" numero="2")
@@ -243,7 +237,7 @@
           p Los métodos más empleados para realizar el paso de parámetros son:
           ul.lista-ul--color
             li
-              i.fas.fa-circle.text-small
+              i.fas.fa-circle
               | Paso por valor (parámetro valor).
             li
               i.fas.fa-circle.text-small
@@ -262,26 +256,26 @@
         p
           i.fas.fa-circle.text-small.cac.me-2
           b Paso por valor
-        p.text-small “No se hace diferencia entre un parámetro que es variable; constante o expresión, ya que solo importa el valor del parámetro” (Joyanes, 2020, p. 227).
+        p “No se hace diferencia entre un parámetro que es variable; constante o expresión, ya que solo importa el valor del parámetro” (Joyanes, 2020, p. 227).
         p
           i.fas.fa-circle.text-small.cac.me-2
           b Paso por referencia
-        p.text-small Son los parámetros que están precedidos por la palabra reservada ref., que indica que sólo reciben valor en el subprograma, o bien proporcionan valor al subprograma y reciben un valor nuevo en el mismo. Así que todo cambio realizado sobre los parámetros formales precedidos por “ref.”, se refleja en los parámetros reales correspondientes. Se los considera como parámetros bidireccionales o variables, ya que son de Entrada y/o Salida.
+        p Son los parámetros que están precedidos por la palabra reservada ref., que indica que sólo reciben valor en el subprograma, o bien proporcionan valor al subprograma y reciben un valor nuevo en el mismo. Así que todo cambio realizado sobre los parámetros formales precedidos por “ref.”, se refleja en los parámetros reales correspondientes. Se los considera como parámetros bidireccionales o variables, ya que son de Entrada y/o Salida.
         p
           i.fas.fa-circle.text-small.cac.me-2
           b Recursión (recursividad)
-        p.text-small La recursión es un método por medio del cual un subprograma puede ser llamado por el mismo. La escritura de un procedimiento o función recursiva es similar a sus homónimos no recursivos. Sin embargo, para evitar que la recursión continúe indefinidamente, es preciso incluir una condición de terminación dentro del subprograma. 
+        p La recursión es un método por medio del cual un subprograma puede ser llamado por el mismo. La escritura de un procedimiento o función recursiva es similar a sus homónimos no recursivos. Sin embargo, para evitar que la recursión continúe indefinidamente, es preciso incluir una condición de terminación dentro del subprograma. 
     
     .col-md-10.mx-auto
       .tarjeta.gr1.p-3.mb-5.text-white
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/componentes/ej-02.svg")
+            img(src="@/assets/curso/temas/t3/f13.svg")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h3.mb-1 Anexo
-                p.text-small Para complementar la temática abordada en este componente, relacionado con los algoritmos, se puede descargar el siguiente documento infográfico que contiene la explicación al respecto
+                p Para complementar la temática abordada en este componente, relacionada con los algoritmos, se puede descargar el siguiente documento infográfico que contiene la explicación al respecto.
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank")
                   span(style='color:#12263f !important') Descargar
@@ -289,7 +283,8 @@
 
       .fcab.p-4
         .fblanco.borde2.p-2
-          p.mb-0 Se invita a explorar los demás recursos que se encuentran disponibles en este componente navegando a través del menú principal, en donde se encuentra la síntesis, una actividad didáctica, el material complementario, entre otros. 
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+
 
 </template>
 
