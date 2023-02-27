@@ -42,7 +42,8 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Metodologías para solución de problemas, usando computadoras',
+        titulo:
+          'Metodologías para la solución de problemas, usando computadoras',
         desarrolloContenidos: true,
       },
 
@@ -129,14 +130,14 @@ export default {
     {
       tema: 'Metodologías para la solución de problemas, usando computadoras',
       referencia:
-        'Muro, A. (2018) <b>Informática, Operadores, Programación.</b>',
+        'Muro, A. (2018) <i>Informática, Operadores, Programación.</i>',
       tipo: 'Página web',
       link: 'https://procomsys.wordpress.com/tag/programacion/',
     },
     {
       tema: 'Metodologías para la solución de problemas, usando computadoras',
       referencia:
-        'Respuestas rápidas. (2020). <b>Cuáles son las principales herramientas ofimáticas.</b>',
+        'Respuestas rápidas. (2020). <i>Cuáles son las principales herramientas ofimáticas.</i>',
       tipo: 'Página web',
       link:
         'https://respuestasrapidas.com.mx/cuales-son-los-principales-herramientas-ofimaticas/ ',
@@ -144,13 +145,13 @@ export default {
     {
       tema: 'Estructuras de control y funciones',
       referencia:
-        'Rincón, R. (2017).<b> Introducción y construcción de algoritmos. </b>',
+        'Rincón, R. (2017).<i> Introducción y construcción de algoritmos. </i>',
       tipo: 'Libro PDF',
       link:
         'https://pdfcookie.com/documents/oa-introduccion-y-construccion-de-algoritmospdf-025ek0myqk21 ',
     },
     {
-      tema: 'Algoritmos',
+      tema: 'Metodologías para la solución de problemas, usando computadoras',
       referencia: 'Sznajdleder, P. (2012). Algoritmos a fondo. Alfaomega.',
       tipo: 'Libro PDF',
       link:

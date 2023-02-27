@@ -3,10 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tecnólogo en implementación y gestión de bases de datos
-      span Síntesis: Algoritmos, estructuras y operaciones
-
     p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
     .row.justify-content-center

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Metodologías para solución de problemas, usando computadoras
+      h1 Metodologías para la solución de problemas, usando computadoras
 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -295,10 +295,6 @@
 
     h3.mb-5 Operaciones aritméticas, relacionales y lógicas
 
-    h3(data-aos="fade-right")
-      i.fas.fa-square.cac.me-3
-      | Información a tener en cuenta
-
     p Joyanes (2020), indica que las <b>Expresiones</b> “son combinaciones de constantes, variables, símbolos de operación, paréntesis y nombres de funciones especiales”. 
     p Los operadores son elementos que relacionan de forma diferente los valores de una o más variables y/o constantes. Es decir, los operadores permiten manipular valores, para obtener nuevos valores en nuevas o diferentes variables.
 
@@ -397,7 +393,7 @@
 
     h3 Representación gráfica de algoritmos
     
-    p A través de la siguiente imagen se puede ver la explicación de los algoritmos, de acuerdo a su representación gráfica:
+    p A través de la siguiente tabla, puede ver la explicación de los algoritmos, de acuerdo con su representación gráfica:
 
     .col-md-9.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')

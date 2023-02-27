@@ -19,9 +19,9 @@
             i.fas.fa-quote-right
         
         .fcac50.p-4.mb-4
-          p.mb-0 En otras palabras, se puede decir que los procedimientos son fragmentos o pedazos de códigos que se pueden reutilizar dentro de la ejecución de un programa.
+          p.mb-0 En otras palabras, se puede decir que los procedimientos son fragmentos o pedazos de códigos, que se pueden reutilizar dentro de la ejecución de un programa.
 
-        p Entretanto las <b>funciones</b> son definidas por Rojas (2017), como
+        p Entretanto las <b>funciones</b> son definidas por Rojas (2017), como:
 
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
@@ -133,11 +133,11 @@
               | .
           .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 2")
             p Se pueden llevar a cabo más de una vez en un programa, con sólo llamarlos las veces que así se desee. Con esto se ahorra tiempo de diseño y programación.
-          .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 3")
+          .tarjeta.color-secundario--borde.p-4.adss-3(titulo="Ventaja 3")
             p El mismo procedimiento se puede usar en distintos programas.
-          .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 4")
+          .tarjeta.color-secundario--borde.p-4.adss-5(titulo="Ventaja 4")
             p Su uso facilita la división de tareas entre los diferentes programadores de un equipo.
-          .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 5")
+          .tarjeta.color-secundario--borde.p-4.adss-5(titulo="Ventaja 5")
             p Se pueden probar individualmente e incorporarlos en librerías o bibliotecas, para ser usados posteriormente por quien lo necesite.
 
       .col-md-4
@@ -267,19 +267,6 @@
         p La recursión es un método por medio del cual un subprograma puede ser llamado por el mismo. La escritura de un procedimiento o función recursiva es similar a sus homónimos no recursivos. Sin embargo, para evitar que la recursión continúe indefinidamente, es preciso incluir una condición de terminación dentro del subprograma. 
     
     .col-md-10.mx-auto
-      .tarjeta.gr1.p-3.mb-5.text-white
-        .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/temas/t3/f13.svg")
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                h3.mb-1 Anexo
-                p Para complementar la temática abordada en este componente, relacionada con los algoritmos, se puede descargar el siguiente documento infográfico que contiene la explicación al respecto.
-              .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank")
-                  span(style='color:#12263f !important') Descargar
-                  i.fas.fa-file-download(style='color:#12263f !important')
 
       .fcab.p-4
         .fblanco.borde2.p-2
