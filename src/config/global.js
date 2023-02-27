@@ -106,7 +106,7 @@ export default {
     {
       tema: 'Definición de funciones y procedimientos',
       referencia:
-        'Garcia, M. (2020). Fundamentos de programación, algoritmos y estructuras de datos.',
+        'Garcia, M. (2020).<i> Fundamentos de programación, algoritmos y estructuras de datos.</i>',
       tipo: 'Página web',
       link:
         'http://www.profmatiasgarcia.com.ar/uploads/tutoriales/Algoritmos2.pdf ',
@@ -114,7 +114,7 @@ export default {
     {
       tema: 'Metodologías para la solución de problemas, usando computadoras',
       referencia:
-        'Guerrero, L., Villegas E. (2016). Análisis y diseño de algoritmos, un enfoque práctico. Editorial Universidad Nacional de Colombia.',
+        'Guerrero, L., Villegas E. (2016). <i>Análisis y diseño de algoritmos, un enfoque práctico.</i> Editorial Universidad Nacional de Colombia.',
       tipo: 'Libro PDF',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_elibroELB129991&context=L&vid=SENA&lang=es_ES&search_scope=sena_completo&adaptor=Local%20Search%20Engine&tab=sena_completo&query=any,contains,ALGORITMOS&offset=0 ',
@@ -122,7 +122,7 @@ export default {
     {
       tema: 'Estructuras de control y funciones',
       referencia:
-        'López, M, y Silva, E. (2018). Verificación formal de algoritmos. Ejercicios resueltos. Universidad de Cádiz.',
+        'López, M, y Silva, E. (2018). <i>Verificación formal de algoritmos.</i> Ejercicios resueltos. Universidad de Cádiz.',
       tipo: 'Libro PDF',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB33887',
@@ -152,7 +152,8 @@ export default {
     },
     {
       tema: 'Metodologías para la solución de problemas, usando computadoras',
-      referencia: 'Sznajdleder, P. (2012). Algoritmos a fondo. Alfaomega.',
+      referencia:
+        'Sznajdleder, P. (2012). <i>Algoritmos a fondo.</i> Alfaomega.',
       tipo: 'Libro PDF',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_alfaomega17554&context=L&vid=SENA&lang=es_ES&search_scope=sena_completo&adaptor=Local%20Search%20Engine&tab=sena_completo&query=any,contains,ALGORITMOS ',
