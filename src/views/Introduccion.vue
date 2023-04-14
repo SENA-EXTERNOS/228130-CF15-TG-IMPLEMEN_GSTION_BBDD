@@ -15,14 +15,15 @@
           figure
             img(src="@/assets/curso/temas/if1.svg", alt="imagen relacionada")
         .col-lg-8
-          .bloque-texto-a__texto.p-4
-            p Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán aspectos generales y claves sobre algoritmos, estructuras y operaciones, temáticas de suma importancia en su proceso formativo. Con el estudio responsable de este componente, afiance sus conocimientos, saberes y habilidades para la implementación y gestión de bases de datos, la aplicación de metodologías para la solución de problemas informáticos, aplicación de estructuras de control, funciones y procedimientos.
-            p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+          .contenedor-dashed.p-3        
+            .bloque-texto-a__texto.p-4
+              p Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán aspectos generales y claves sobre algoritmos, estructuras y operaciones, temáticas de suma importancia en su proceso formativo. Con el estudio responsable de este componente, afiance sus conocimientos, saberes y habilidades para la implementación y gestión de bases de datos, la aplicación de metodologías para la solución de problemas informáticos, aplicación de estructuras de control, funciones y procedimientos.
+              p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/aICQGTU4Dm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 </template>
 

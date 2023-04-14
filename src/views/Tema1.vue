@@ -166,68 +166,69 @@
           figure
             img(src="@/assets/curso/temas/t1/f11.svg", alt="imagen relacionada")
         .col-lg-8
-          .bloque-texto-a__texto.p-4
-            p Se definen como una serie de pasos a seguir para solucionar un problema.
-            p Utilizando Elementos de secuencia:
-            ul.lista-ul--color.mb-4
-              li
-                i.fas.fa-circle.text-small
-                p.mb-0
-                  b Entrada
-              li
-                i.fas.fa-circle.text-small
-                p.mb-0
-                  b Proceso
-              li
-                i.fas.fa-circle.text-small
-                p.mb-0
-                  b Salida
-            .row
-              .col-md-6
-                h4 Creando estructuras:
-                .mb-4
+          .contenedor-dashed.p-3         
+            .bloque-texto-a__texto.p-4
+              p Se definen como una serie de pasos a seguir para solucionar un problema.
+              p Utilizando Elementos de secuencia:
+              ul.lista-ul--color.mb-4
+                li
+                  i.fas.fa-circle.text-small
                   p.mb-0
-                    i.fas.fa-circle.cac.text-small.me-2
-                    b De decisión:
-                  ul.ms-4
-                    li - Simples 
-                    li - Dobles
-                .mb-4                
+                    b Entrada
+                li
+                  i.fas.fa-circle.text-small
                   p.mb-0
-                    i.fas.fa-circle.cac.text-small.me-2
-                    b De control:
-                  ul.ms-4
-                    li - Secuenciales
-                    li - Cíclicas o repetitivas
-                    li - Estructura Para
-                    li - Estructura Mientras
-                    li - Estructura Repita
-                
-              .col-md-6
-                h4 Emplean la siguiente metodología:
-                ol.lista-ol--cuadro
-                  li
-                    .lista-ol--cuadro__vineta
-                      span 1
-                    b Análisis del problema
-                  li
-                    .lista-ol--cuadro__vineta
-                      span 2
-                    b Diseño de algritmo 
-                ul.lista-ul--color.ms-4
-                  li
-                    i.fas.fa-circle.text-small
-                    b Constantes
-                  li
-                    i.fas.fa-circle.text-small
-                    b Variables
-                  li
-                    i.fas.fa-circle.text-small
-                    b Operadores
-                ul.ms-5
-                  li - Aritméticos
-                  li - Relacionales
-                  li - Lógicos
+                    b Proceso
+                li
+                  i.fas.fa-circle.text-small
+                  p.mb-0
+                    b Salida
+              .row
+                .col-md-6
+                  h4 Creando estructuras:
+                  .mb-4
+                    p.mb-0
+                      i.fas.fa-circle.cac.text-small.me-2
+                      b De decisión:
+                    ul.ms-4
+                      li - Simples 
+                      li - Dobles
+                  .mb-4                
+                    p.mb-0
+                      i.fas.fa-circle.cac.text-small.me-2
+                      b De control:
+                    ul.ms-4
+                      li - Secuenciales
+                      li - Cíclicas o repetitivas
+                      li - Estructura Para
+                      li - Estructura Mientras
+                      li - Estructura Repita
+                  
+                .col-md-6
+                  h4 Emplean la siguiente metodología:
+                  ol.lista-ol--cuadro
+                    li
+                      .lista-ol--cuadro__vineta
+                        span 1
+                      b Análisis del problema
+                    li
+                      .lista-ol--cuadro__vineta
+                        span 2
+                      b Diseño de algritmo 
+                  ul.lista-ul--color.ms-4
+                    li
+                      i.fas.fa-circle.text-small
+                      b Constantes
+                    li
+                      i.fas.fa-circle.text-small
+                      b Variables
+                    li
+                      i.fas.fa-circle.text-small
+                      b Operadores
+                  ul.ms-5
+                    li - Aritméticos
+                    li - Relacionales
+                    li - Lógicos
 
 
     h3 Construcción de expresiones algorítmicas
@@ -272,7 +273,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/w9cvkRWZsx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
  
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3

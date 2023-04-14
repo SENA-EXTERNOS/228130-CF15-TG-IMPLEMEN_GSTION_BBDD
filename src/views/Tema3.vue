@@ -43,26 +43,27 @@
         .col-lg-4.mb-4.mb-lg-0
           
         .col-lg-8
-          .bloque-texto-a__texto.p-4
-            p 
-              i.fas.fa-circle.text-small.cac.me-2
-              b Declaración de funciones
-            p.cac En pseudocódigo:
+          .contenedor-dashed.p-3         
+            .bloque-texto-a__texto.p-4
+              p 
+                i.fas.fa-circle.text-small.cac.me-2
+                b Declaración de funciones
+              p.cac En pseudocódigo:
 
-            p 
-              b SINTAXIS
+              p 
+                b SINTAXIS
 
-            p Función nombre_función (lista de parámetros a recibir):
+              p Función nombre_función (lista de parámetros a recibir):
 
-            p Tipo
-            p declaraciones locales
+              p Tipo
+              p declaraciones locales
 
-            p Hacer
-            p cuerpo ejecutable de la función
+              p Hacer
+              p cuerpo ejecutable de la función
 
-            p Nombre_funci&oacute;n = &lt;expresi&oacute;n o valor calculado dentro de la funci&oacute;n&gt; // 1 //
-            p Fin Hacer
-            p Fin Funcion
+              p Nombre_funci&oacute;n = &lt;expresi&oacute;n o valor calculado dentro de la funci&oacute;n&gt; // 1 //
+              p Fin Hacer
+              p Fin Funcion
 
     i.fas.fa-dot.cac.me-2
     h4 
@@ -268,9 +269,10 @@
     
     .col-md-10.mx-auto
 
-      .fcab.p-4
-        .fblanco.borde2.p-2
-          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+      .fcab.p-3
+        .contenedor-dashed.p-3
+          .fblanco.p-3
+            p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 
 </template>
