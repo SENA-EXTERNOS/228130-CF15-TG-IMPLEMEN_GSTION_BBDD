@@ -22,7 +22,7 @@
               span - Joyanes (2020), (p. 68)
             i.fas.fa-quote-right
 
-    p Para solucionar problemas de una manera efectiva en programación se necesita trabajar con una metodología fácil de entender que indique el paso a paso hasta llegar a la solución, este es básicamente, un hábito o guía que puede aplicarse cada vez que se necesite resolver un problema. 
+    p Para solucionar problemas de una manera efectiva en programación se necesita trabajar con una metodología fácil de entender que indique el paso a paso hasta llegar a la solución, este es, básicamente un hábito o guía que puede aplicarse cada vez que se necesite resolver un problema. 
     p
       b Los pasos de la metodología son:
 
@@ -214,7 +214,7 @@
                     li
                       .lista-ol--cuadro__vineta
                         span 2
-                      b Diseño de algritmo 
+                      b Diseño de algoritmo 
                   ul.lista-ul--color.ms-4
                     li
                       i.fas.fa-circle.text-small
@@ -240,7 +240,6 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
-              h4 Analizar el problema
               p Analizar la situación teniendo en cuenta los requerimientos del cliente y organizarlos en un orden lógico de pasos para resolver el problema.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f12.svg')})`}")
       .col-md-6.col-lg-3.mb-5.col-auto
@@ -248,7 +247,6 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
-              h4 Diseñar el algoritmo
               p En este paso se describe la secuencia ordenada de pasos del algoritmo, para diseñar una solución que conduce a resolver el problema citado a través de un diagrama de flujo o pseudocódigo.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f13.svg')})`}")
       .col-md-6.col-lg-3.mb-5.col-auto
@@ -256,7 +254,6 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
-              h4 Expresar el algoritmo
               p Se debe expresar como un programa en un lenguaje de programación adecuado. También conocido como fase de codificación.
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f14.svg')})`}")
       .col-md-6.col-lg-3.mb-5.col-auto
@@ -264,7 +261,6 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
-              h4 Ejecución y validación
               p Se pone en ejecución el programa realizado en un computador, verificando y eliminando los errores 
                 em (bugs).
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f15.svg')})`}")
@@ -424,7 +420,7 @@
               td(data-aos='fade-right') 
                 img(src='@/assets/curso/temas/t1/f26.svg', alt='', style='height:40px')
               td Decisión
-              td Representa las comparaciones de dos o mas valores, tiene dos salidas de información falso o verdadero.
+              td Representa las comparaciones de dos o más valores, tiene dos salidas de información falso o verdadero.
             tr
               td(data-aos='fade-right') 
                 img(src='@/assets/curso/temas/t1/f27.svg', alt='', style='height:40px')

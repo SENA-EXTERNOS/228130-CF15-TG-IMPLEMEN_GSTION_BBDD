@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/t2/f1.svg', alt='persona frente a un laptop')
       .col-md-9
         p El flujo de control hace referencia a la secuencia en que se ejecutan las instrucciones de un algoritmo o de un programa; el flujo normal de control de todos los programas es secuencial, a menos que se indique expresamente lo contrario o se especifique algo diferente. Esto quiere decir que las sentencias se llevan a cabo en secuencia, seguida una de otra, en el orden en que se encuentran ubicadas en el algoritmo o en el programa. 
-        p Las estructuras de selección, repetición o iteración, permiten que el flujo de control del programa sea alterado de una forma precisa y establecida con anterioridad. Estas se usan como lo indica su palabra para seleccionar, elegir o escoger, las instrucciones que se han de llevar a cabo a continuación. Por su parte, las estructuras de repetición (repetitivas o iterativas), se usan para que un conjunto de instrucciones se repita.
+        p Las estructuras de selección, repetición o iteración, permiten que el flujo de control del programa sea alterado de una forma precisa y establecida con anterioridad. Estas se usan, como lo indica su palabra, para seleccionar, elegir o escoger, las instrucciones que se han de llevar a cabo a continuación. Por su parte, las estructuras de repetición (repetitivas o iterativas), se usan para que un conjunto de instrucciones se repita.
     
 
 
@@ -72,7 +72,7 @@
         p
           i.fas.fa-circle.text-small.cac.me-2
           b Estructuras cíclicas y/o repetitivas
-        p.mb-0 Las estructuras cíclicas también llamadas repetitivas o bucles, como su nombre lo indica, se repiten realizando la misma acción un determinado número de veces, dependiendo del requerimiento del problema. Existen algunas ocasiones donde se conoce previamente la cantidad de veces que se necesitan llevar a cabo las acciones o instrucciones de un ciclo.
+        p.mb-0 Las estructuras cíclicas, también llamadas repetitivas o bucles, como su nombre lo indica, se repiten realizando la misma acción un determinado número de veces, dependiendo del requerimiento del problema. Existen algunas ocasiones donde se conoce previamente la cantidad de veces que se necesitan llevar a cabo las acciones o instrucciones de un ciclo.
 
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
@@ -133,7 +133,7 @@
       p
         | &lt;nombre del contador&gt; = &lt;nombre del contador&gt; + &lt;valor constante&gt;
         br
-        | Si en vez de incremento es decremento se coloca un menos en lugar del m&aacute;s.
+        | Si en vez de incremento es decremento, se coloca un menos en lugar del m&aacute;s.
         br
         | Ejemplo: i = i + 1
 
