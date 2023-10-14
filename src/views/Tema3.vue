@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Definición de funciones y procedimientos 
+      h1 Definición de funciones y procedimientos
 
 
     .row.justify-content-center.mb-5
@@ -13,11 +13,11 @@
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4 Procedimientos son módulos que se utilizan para elaborar un conjunto de instrucciones, independientes y reutilizables, pero definiendo claramente el significado y la utilidad de esa porción de programa.         
+            h4 Los procedimientos son módulos que se utilizan para elaborar un conjunto de instrucciones, independientes y reutilizables, pero definiendo claramente el significado y la utilidad de esa porción de programa.
             br
-            span Rojas (2017) 
+            span Rojas (2017)
             i.fas.fa-quote-right
-        
+
         .fcac50.p-4.mb-4
           p.mb-0 En otras palabras, se puede decir que los procedimientos son fragmentos o pedazos de códigos, que se pueden reutilizar dentro de la ejecución de un programa.
 
@@ -28,7 +28,7 @@
             i.fas.fa-quote-left
             h4 módulos que tienen la misma definición de un procedimiento, pero con la particularidad que permiten devolver un valor en una variable
             br
-            span - Rojas (2017) (p. 36). 
+            span - Rojas (2017) (p. 36).
             i.fas.fa-quote-right
 
         .fcac50.p-4
@@ -41,16 +41,16 @@
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.bgt3-2
       .row.m-0.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          
+
         .col-lg-8
-          .contenedor-dashed.p-3         
+          .contenedor-dashed.p-3
             .bloque-texto-a__texto.p-4
-              p 
+              p
                 i.fas.fa-circle.text-small.cac.me-2
                 b Declaración de funciones
               p.cac En pseudocódigo:
 
-              p 
+              p
                 b SINTAXIS
 
               p Función nombre_función (lista de parámetros a recibir):
@@ -66,35 +66,35 @@
               p Fin Función
 
     i.fas.fa-dot.cac.me-2
-    h4 
+    h4
 
     .row.justify-content-center.mb-5
       .col-md-4
         figure
           img(src='@/assets/curso/temas/t3/f3.svg', alt='')
       .col-md-8
-        p 
-          b nombre_función: 
+        p
+          b nombre_función:
           | es el nombre de la función.
-        p 
-          b Lista de parámetros: 
+        p
+          b Lista de parámetros:
           | es la lista de parámetros formales y no puede estar vacía.
-        p 
-          b Tipo: 
+        p
+          b Tipo:
           | es el tipo de dato que devuelve la función.
         p // 1 // En el cuerpo de la función debe existir una sentencia que asigne valor explícitamente al nombre de la función.
-        p 
+        p
           b Invocación a las funciones
-        p Para que una función sea ejecutada, esta debe ser llamada desde un programa principal, otras funciones o procedimientos haciendo referencia a su nombre. 
+        p Para que una función sea ejecutada, esta debe ser llamada desde un programa principal, otras funciones o procedimientos haciendo referencia a su nombre.
 
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             h4 Cada vez que se llama a una función desde el algoritmo principal, se establece automáticamente una correspondencia entre los parámetros formales y los reales.
               br
-              | Debe haber exactamente el mismo número de parámetros reales que de formales en la declaración de la función 
+              | Debe haber exactamente el mismo número de parámetros reales que de formales en la declaración de la función
             br
-            span - Joyanes (2020)  (p. 214). 
+            span - Joyanes (2020)  (p. 214).
             i.fas.fa-quote-right
 
     .col-md-10.mx-auto.mb-5
@@ -129,7 +129,7 @@
       .col-md-8
         TabsA.color-primario.mb-5
           .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 1")
-            p Facilitan el diseño 
+            p Facilitan el diseño
               em top-down
               | .
           .tarjeta.color-secundario--borde.p-4(titulo="Ventaja 2")
@@ -156,15 +156,15 @@
 
       .col-md-7
         p En pseudocódigo:
-        p 
+        p
           i.fas.fa-circle.text-small.cac.me-2
           b SINTAXIS
         p procedimiento nombre procedimiento (lista de parámetros):
-        p 
+        p
           i.fas.fa-circle.text-small.cac.me-2
           b Tipo
         p declaraciones locales
-        p 
+        p
           i.fas.fa-circle.text-small.cac.me-2
           b Hacer
         p cuerpo ejecutable del procedimiento
@@ -200,18 +200,18 @@
         ul.lista-ul--color
           li
             i.fas.fa-circle.text-small
-            p.mb-0 
-              b Un parámetro: 
-              | es un valor (puede ser una variable, una constante o una expresión) que se pasa desde el programa principal al subprograma (función o procedimiento) para que puedan ser usados en este. 
+            p.mb-0
+              b Un parámetro:
+              | es un valor (puede ser una variable, una constante o una expresión) que se pasa desde el programa principal al subprograma (función o procedimiento) para que puedan ser usados en este.
           li
             i.fas.fa-circle.text-small
-            p.mb-0 
-              b Un subprograma: 
-              | tiene su propia estructura (nombre, declaración de variables y sus respectivos parámetros). 
+            p.mb-0
+              b Un subprograma:
+              | tiene su propia estructura (nombre, declaración de variables y sus respectivos parámetros).
           li
             i.fas.fa-circle.text-small
-            p.mb-0 
-              b Paso de parámetros: 
+            p.mb-0
+              b Paso de parámetros:
               | es la forma en que los diferentes subprogramas se comunican, la información entre ellos, es a través de la lista de parámetros y se establece una correspondencia entre los diferentes parámetros.
       .col-md-5
         figure
@@ -261,8 +261,8 @@
         p
           i.fas.fa-circle.text-small.cac.me-2
           b Recursión (recursividad)
-        p La recursión es un método por medio del cual un subprograma puede ser llamado por el mismo. La escritura de un procedimiento o función recursiva es similar a sus homónimos no recursivos. Sin embargo, para evitar que la recursión continúe indefinidamente, es preciso incluir una condición de terminación dentro del subprograma. 
-    
+        p La recursión es un método por medio del cual un subprograma puede ser llamado por el mismo. La escritura de un procedimiento o función recursiva es similar a sus homónimos no recursivos. Sin embargo, para evitar que la recursión continúe indefinidamente, es preciso incluir una condición de terminación dentro del subprograma.
+
     .col-md-10.mx-auto
 
       .fcab.p-3

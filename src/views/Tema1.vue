@@ -22,7 +22,7 @@
               span - Joyanes (2020), (p. 68)
             i.fas.fa-quote-right
 
-    p Para solucionar problemas de una manera efectiva en programación se necesita trabajar con una metodología fácil de entender que indique el paso a paso hasta llegar a la solución, este es, básicamente un hábito o guía que puede aplicarse cada vez que se necesite resolver un problema. 
+    p Para solucionar problemas de una manera efectiva en programación se necesita trabajar con una metodología fácil de entender que indique el paso a paso hasta llegar a la solución, este es, básicamente un hábito o guía que puede aplicarse cada vez que se necesite resolver un problema.
     p
       b Los pasos de la metodología son:
 
@@ -58,40 +58,37 @@
               p.mb-0 Es un proceso dividido en dos tareas. La primera es la prueba del código elaborado en el paso anterior con el fin de ingresar o registrar datos, hasta que el programa no presente errores de tipo sintáctico y lógico; la segunda es la depuración, donde se deben detectar los errores del programa para corregirlos o eliminarlos.
           .row.justify-content-around(titulo="Documentación")
             .col-md-10
-              p Es un registro detallado de manera escrita de todo lo relacionado con el 
-                em software
-                | , por ejemplo, conceptos, solicitudes o acuerdos, procedimientos y diagramas. La documentación tiene como fin ayudar a comprender el uso de un programa y facilitar futuros mantenimientos; no solo para quien que lo diseñó, sino también, para cualquier persona.
-              p 
-                b Existen tres tipos de documentación:
+              p Es un registro detallado de manera escrita de todo lo relacionado con el #[em software], por ejemplo, conceptos, solicitudes o acuerdos, procedimientos y diagramas. La documentación tiene como fin ayudar a comprender el uso de un programa y facilitar futuros mantenimientos; no solo para quien lo diseñó, sino también, para cualquier persona.
+              p #[b Existen tres tipos de documentación:]
               p
                 i.fas.fa-circle.cac.me-2.text-small
-                strong.cp Documentación interna: 
-                | es cualquier tipo de comentario que se escribe en el código fuente, con el fin de hacer más clara la comprensión en un proceso.
+                strong.cp Documentación interna:
+                | &nbsp;es cualquier tipo de comentario que se escribe en el código fuente, con el fin de hacer más clara la comprensión en un proceso.
               p
                 i.fas.fa-circle.cac.me-2.text-small
-                strong.cp Documentación externa: 
-                | esta documentación se encuentra resumida en el manual técnico del programa y describirá:
+                strong.cp Documentación externa:
+                | &nbsp;esta documentación se encuentra resumida en el manual técnico del programa y describirá:
               p Como instalar el sistema, como usarlo y operarlo, los requisitos y el diseño, la administración del sistema y los procedimientos de prueba. Todo ello, para poderles dar el adecuado mantenimiento y que será útil durante todo el tiempo de vida del sistema.
               p Adicionalmente, el manual técnico incluirá también: la descripción del problema, el nombre de cada módulo, la fecha de creación o modificación, el nombre de los autores, el algoritmo y/o el diagrama de flujo, el listado de los módulos y procedimientos del programa; así como, el diccionario de datos y el código fuente (programa).
               p
                 i.fas.fa-circle.cac.me-2.text-small
-                strong.cp Manual del usuario: 
-                | está orientado a los usuarios finales que utilizarán el sistema. Este explica paso a paso el funcionamiento del programa, con el fin de que el usuario final conozca de manera detallada el programa para obtener el resultado deseado.
+                strong.cp Manual del usuario:
+                | &nbsp;está orientado a los usuarios finales que utilizarán el sistema. Este explica paso a paso el funcionamiento del programa, con el fin de que el usuario final conozca de manera detallada el programa para obtener el resultado deseado.
 
     h3 Concepto de algoritmo
 
     .row.justify-content-center.mb-5
       .col-md-8.order-md-first.order-last
-        p Al hablar de un algoritmo, se hace referencia a un conjunto de instrucciones de forma ordenada, que buscan solucionar un determinado problema y que están relacionadas lógicamente. La palabra algoritmo deriva de la traducción al latín de la palabra árabe 
+        p Al hablar de un algoritmo, se hace referencia a un conjunto de instrucciones de forma ordenada, que buscan solucionar un determinado problema y que están relacionadas lógicamente. La palabra algoritmo deriva de la traducción al latín de la palabra árabe
           em alkhowarizmi
           | , nombre de un matemático y astrónomo árabe que escribió un tratado sobre manipulación de números y ecuaciones en el siglo IX.
         p Es decir, un algoritmo es una serie de instrucciones organizadas que describen el proceso que se debe seguir, para solucionar un problema, por medio de una computadora. Por tanto, todo algoritmo tiene unas características primordiales que debe llevar a cabo, estas son:
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4 Debe ser preciso e indicar el orden de realización de cada paso. 
+            h4 Debe ser preciso e indicar el orden de realización de cada paso.
               br
-              | Debe estar bien definido, se debe obtener el mismo resultado cada vez que se lleve a cabo. 
+              | Debe estar bien definido, se debe obtener el mismo resultado cada vez que se lleve a cabo.
               br
               | Debe ser finito, se debe terminar en algún momento.
             br
@@ -109,19 +106,19 @@
           img(src="@/assets/curso/temas/t1/f8.svg", alt="icono de diagrama de flujos")
       .col-md-9
         p Por otra parte, la estructura de un algoritmo está compuesta por tres partes: entrada, proceso y salida.
-        p 
-          i.fas.fa-circle.cac.me-2.text-small
-          strong.cp La entrada 
-          | se refiere a los datos que se le suministran al algoritmo o programa para iniciar y pueden ser asignados directamente en el programa o suministrados por el usuario por medio de una solicitud de ingreso desde el teclado.
         p
           i.fas.fa-circle.cac.me-2.text-small
-          strong.cp El proceso 
-          | es la parte donde se llevan a cabo las diferentes acciones con los datos de entrada tales como ciclos, operaciones, cálculos, etc.
+          strong.cp La entrada
+          | &nbsp;se refiere a los datos que se le suministran al algoritmo o programa para iniciar y pueden ser asignados directamente en el programa o suministrados por el usuario por medio de una solicitud de ingreso desde el teclado.
         p
           i.fas.fa-circle.cac.me-2.text-small
-          strong.cp La salida 
-          | es la visualización de los resultados obtenidos en la parte del proceso.
-    
+          strong.cp El proceso
+          | &nbsp;es la parte donde se llevan a cabo las diferentes acciones con los datos de entrada tales como ciclos, operaciones, cálculos, etc.
+        p
+          i.fas.fa-circle.cac.me-2.text-small
+          strong.cp La salida
+          | &nbsp;es la visualización de los resultados obtenidos en la parte del proceso.
+
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
       | Representación gráfica de los algoritmos
@@ -133,7 +130,7 @@
       i.fas.fa-square.cac.me-3
       |  Diagrama de flujo
 
-    p Para Joyanes (2020), un diagrama de flujo o <i>flowchart</i> en inglés, es uno de los métodos gráficos de representación de algoritmos más antiguos que, a su vez, es uno de los más utilizados. Aunque, en la actualidad, su uso se ha reducido, sobre todo con la aparición de lenguajes de programación estructurados. Un diagrama de flujo es un diagrama que utiliza los símbolos y que tiene los pasos de algoritmo escritos en cajas unidas por flechas, denominadas líneas de flujo, que indican la secuencia en que se debe llevar a cabo. 
+    p Para Joyanes (2020), un diagrama de flujo o <i>flowchart</i> en inglés, es uno de los métodos gráficos de representación de algoritmos más antiguos que, a su vez, es uno de los más utilizados. Aunque, en la actualidad, su uso se ha reducido, sobre todo con la aparición de lenguajes de programación estructurados. Un diagrama de flujo es un diagrama que utiliza los símbolos y que tiene los pasos de algoritmo escritos en cajas unidas por flechas, denominadas líneas de flujo, que indican la secuencia en que se debe llevar a cabo.
     p El siguiente esquema muestra un ejemplo de diagrama de flujo:
 
     .col-md-6.mx-auto.mb-5
@@ -143,7 +140,7 @@
           em Ejemplo de un diagrama de flujo
       figure
         img(src="@/assets/curso/temas/t1/f9.svg", alt="Ejemplo de un diagrama de flujo")
-        figcaption Nota: Adaptada de Wikimedia commonds (2007). 
+        figcaption Nota: Adaptada de Wikimedia commonds (2007).
 
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
@@ -155,7 +152,7 @@
       .col-md-5
         figure
           img(src="@/assets/curso/temas/t1/f10.svg", alt="Ejemplo de un pseudocódigo")
-    
+
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
       | Algoritmos
@@ -166,7 +163,7 @@
           figure
             img(src="@/assets/curso/temas/t1/f11.svg", alt="imagen relacionada")
         .col-lg-8
-          .contenedor-dashed.p-3         
+          .contenedor-dashed.p-3
             .bloque-texto-a__texto.p-4
               p Se definen como una serie de pasos a seguir para solucionar un problema.
               p Utilizando Elementos de secuencia:
@@ -191,9 +188,9 @@
                       i.fas.fa-circle.cac.text-small.me-2
                       b De decisión:
                     ul.ms-4
-                      li - Simples 
+                      li - Simples
                       li - Dobles
-                  .mb-4                
+                  .mb-4
                     p.mb-0
                       i.fas.fa-circle.cac.text-small.me-2
                       b De control:
@@ -203,7 +200,7 @@
                       li - Estructura Para
                       li - Estructura Mientras
                       li - Estructura Repita
-                  
+
                 .col-md-6
                   h4 Emplean la siguiente metodología:
                   ol.lista-ol--cuadro
@@ -214,7 +211,7 @@
                     li
                       .lista-ol--cuadro__vineta
                         span 2
-                      b Diseño de algoritmo 
+                      b Diseño de algoritmo
                   ul.lista-ul--color.ms-4
                     li
                       i.fas.fa-circle.text-small
@@ -261,16 +258,16 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-3.align-items-center.text-center.py-5
-              p Se pone en ejecución el programa realizado en un computador, verificando y eliminando los errores 
+              p Se pone en ejecución el programa realizado en un computador, verificando y eliminando los errores
                 em (bugs).
             .tarjeta-slide__img(:style="{'background-position':`bottom center`,'background-image': `url(${require('@/assets/curso/temas/t1/f15.svg')})`}")
 
-    p.mb-5 La formulación de algoritmos para enfrentar algunos problemas implica un análisis previo del problema mismo, es decir, identificar los datos iniciales, también denominados variables. Esto favorecerá que la formulación de soluciones sea más pertinente y, por lo mismo, efectiva. El siguiente video detallas los aspectos que se deben tener en cuenta acerca de las variables y las constantes:
+    p.mb-5 La formulación de algoritmos para enfrentar algunos problemas implica un análisis previo del problema mismo, es decir, identificar los datos iniciales, también denominados variables. Esto favorecerá que la formulación de soluciones sea más pertinente y, por lo mismo, efectiva. El siguiente video detalla los aspectos que se deben tener en cuenta acerca de las variables y las constantes:
 
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/w9cvkRWZsx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
- 
+
     h3(data-aos="fade-right")
       i.fas.fa-square.cac.me-3
       | Información a tener en cuenta
@@ -292,7 +289,7 @@
 
     h3.mb-5 Operaciones aritméticas, relacionales y lógicas
 
-    p Joyanes (2020), indica que las <b>Expresiones</b> “son combinaciones de constantes, variables, símbolos de operación, paréntesis y nombres de funciones especiales”. 
+    p Joyanes (2020), indica que las <b>Expresiones</b> “son combinaciones de constantes, variables, símbolos de operación, paréntesis y nombres de funciones especiales”.
     p Los operadores son elementos que relacionan de forma diferente los valores de una o más variables y/o constantes. Es decir, los operadores permiten manipular valores, para obtener nuevos valores en nuevas o diferentes variables.
 
     .cajon.color-acento-botones.p-4.mb-4
@@ -316,7 +313,7 @@
         .row.p-4
           .col-md-7.mb-4.mb-md-0
             h4 Prioridad de los operadores aritméticos
-            p Es el orden lógico establecido como se ejecutan las operaciones aritméticas. 
+            p Es el orden lógico establecido como se ejecutan las operaciones aritméticas.
             p Se evalúan de la siguiente manera:
             ol
               li 1. Todas las expresiones que están en paréntesis.
@@ -328,7 +325,7 @@
               li 2. *, /, mod Multiplicación, división, módulo.
               li 3. +, - Suma y resta.
             p En una misma expresión con igual nivel de prioridad, los operadores aritméticos se evalúan de izquierda a derecha.
-          
+
           .col-md-5.tarjeta.p-3
             figure
               img(src='@/assets/curso/temas/t1/f20.svg', alt='Texto que describa la imagen')
@@ -356,22 +353,22 @@
             .fcac50.p-3
               h4 Ejemplo:
               p
-                | (a&lt;b) &amp;&amp; (b&lt;c) es verdadero (true), si ambas son verdaderas. 
+                | (a&lt;b) &amp;&amp; (b&lt;c) es verdadero (true), si ambas son verdaderas.
                 br
                 | Si alguna o ambas son falsas el resultado es falso (false).
               p
-                | En cambio, la expresi&oacute;n (a&lt;b) ||(b&lt;c) es verdadera, si una de las dos comparaciones lo es. 
+                | En cambio, la expresi&oacute;n (a&lt;b) ||(b&lt;c) es verdadera, si una de las dos comparaciones lo es.
                 br
                 | Si ambas, son falsas, el resultado es falso.
               p La expresi&oacute;n&raquo; NO a es menor que b&raquo;
               p
-                | !(a&lt;b) es falsa si (a&lt;b) es verdadero, y es verdadera si la comparaci&oacute;n es falsa. 
+                | !(a&lt;b) es falsa si (a&lt;b) es verdadero, y es verdadera si la comparaci&oacute;n es falsa.
                 br
                 | Por tanto, el operador NOT actuando sobre (a&lt;b) es equivalente a (a&gt;=b)
                 br
                 | La expresi&oacute;n &laquo;NO a es igual a b&raquo;
               p
-                | !(a==b) es verdadera si a es distinto de b, y es falsa si a es igual a b. 
+                | !(a==b) es verdadera si a es distinto de b, y es falsa si a es igual a b.
                 br
                 | Esta expresi&oacute;n es equivalente a (a!=b)
 
@@ -389,7 +386,7 @@
         img(src='@/assets/curso/temas/t1/f23.svg', alt='')
 
     h3 Representación gráfica de algoritmos
-    
+
     p A través de la siguiente tabla, puede ver la explicación de los algoritmos, de acuerdo con su representación gráfica:
 
     .col-md-9.mx-auto.mb-5
@@ -399,7 +396,7 @@
         em Representación gráfica de algoritmos
       .tabla-a.color-acento-contenido.mb-5
         table
-          caption Nota: Adaptado de Olimpiada Oaxaqueña de informática. Gitbook (2019) 
+          caption Nota: Adaptado de Olimpiada Oaxaqueña de informática. Gitbook (2019)
           thead
             tr
               th Símbolo
@@ -407,32 +404,32 @@
               th Acción
           tbody
             tr
-              td(data-aos='fade-right') 
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/temas/t1/f24.svg', alt='', style='height:40px')
               td Terminal
               td Representa el inicio o el fin del diagrama de flujo.
             tr
-              td(data-aos='fade-right') 
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/temas/t1/f25.svg', alt='', style='height:40px')
               td Entrada y salida
               td Representa los datos de entrada y los de salida.
             tr
-              td(data-aos='fade-right') 
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/temas/t1/f26.svg', alt='', style='height:40px')
               td Decisión
               td Representa las comparaciones de dos o más valores, tiene dos salidas de información falso o verdadero.
             tr
-              td(data-aos='fade-right') 
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/temas/t1/f27.svg', alt='', style='height:40px')
               td Proceso
               td Indica todas las acciones o cálculos que se ejecutaran  con los datos de entrada u otros obtenidos.
             tr
-              td(data-aos='fade-right') 
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/temas/t1/f28.svg', alt='', style='height:40px')
               td Líneas de flujo de información
               td Indican el sentido de la información obtenida y su uso posterior en algún proceso subsiguiente.
             tr
-              td(data-aos='fade-right') 
+              td(data-aos='fade-right')
                 img(src='@/assets/curso/temas/t1/f29.svg', alt='', style='height:40px')
               td Conector
               td Este símbolo permite identificar la continuación de la información, si el diagrama es muy extenso.
