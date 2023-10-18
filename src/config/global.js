@@ -117,7 +117,7 @@ export default {
         'Guerrero, L., Villegas E. (2016). <i>Análisis y diseño de algoritmos, un enfoque práctico.</i> Editorial Universidad Nacional de Colombia.',
       tipo: 'Libro PDF',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_elibroELB129991&context=L&vid=SENA&lang=es_ES&search_scope=sena_completo&adaptor=Local%20Search%20Engine&tab=sena_completo&query=any,contains,ALGORITMOS&offset=0 ',
+        'https://es.scribd.com/book/352585570/Analisis-y-diseno-de-algoritmos-Un-enfoque-practico',
     },
     {
       tema: 'Estructuras de control y funciones',
@@ -227,7 +227,7 @@ export default {
       referencia:
         'López, M, y Silva, E. (2017). <em>Corrección de algoritmos complejos: verificación formal</em>. Universidad de Cádiz. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB33887',
+        'https://es.scribd.com/document/508257311/Verificacion-formal-de-algoritmos-ejercicios-resue-Pg-13-50',
     },
     {
       referencia:
